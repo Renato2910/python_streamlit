@@ -1,0 +1,1379 @@
+ID,nome,idade,serie,nota_matematica,nota_portugues,nota_ciencias,frequencia_%,cidade
+1,Aluno_1,17,1º Ano,7.7,6.2,7.2,71.9,São Paulo
+2,Aluno_2,18,2º Ano,5.9,6.8,7.7,61.3,Belo Horizonte
+3,Aluno_3,16,2º Ano,10.0,6.5,8.4,83.6,Salvador
+4,Aluno_4,18,3º Ano,6.8,8.3,6.8,81.0,Salvador
+5,Aluno_5,18,2º Ano,6.5,7.8,4.3,71.3,Belo Horizonte
+6,Aluno_6,15,3º Ano,4.2,6.2,2.3,61.5,Belo Horizonte
+7,Aluno_7,16,1º Ano,5.5,8.6,4.7,99.8,São Paulo
+8,Aluno_8,16,2º Ano,4.4,9.3,8.6,79.3,Curitiba
+9,Aluno_9,16,3º Ano,1.7,3.4,9.5,90.2,Rio de Janeiro
+10,Aluno_10,18,1º Ano,7.9,7.9,5.8,78.1,Curitiba
+11,Aluno_11,17,2º Ano,5.0,5.5,3.6,61.7,Curitiba
+12,Aluno_12,16,1º Ano,4.5,7.7,5.0,72.4,Salvador
+13,Aluno_13,19,2º Ano,6.4,8.4,8.2,72.8,Belo Horizonte
+14,Aluno_14,18,1º Ano,7.0,5.2,5.1,93.5,Salvador
+15,Aluno_15,15,1º Ano,5.4,3.7,7.3,86.2,Rio de Janeiro
+16,Aluno_16,17,3º Ano,6.0,7.8,6.5,71.0,São Paulo
+17,Aluno_17,19,1º Ano,7.5,6.7,7.5,98.7,Rio de Janeiro
+18,Aluno_18,19,2º Ano,5.3,4.0,9.5,72.9,Salvador
+19,Aluno_19,15,2º Ano,6.6,10.0,7.3,99.9,Salvador
+20,Aluno_20,17,3º Ano,2.7,7.4,6.5,99.8,Salvador
+21,Aluno_21,18,2º Ano,3.5,7.5,9.7,67.6,Salvador
+22,Aluno_22,14,2º Ano,7.2,8.5,6.8,72.5,Curitiba
+23,Aluno_23,17,2º Ano,3.4,5.6,4.8,79.4,São Paulo
+24,Aluno_24,15,1º Ano,6.5,6.7,7.4,86.6,Curitiba
+25,Aluno_25,19,1º Ano,5.7,4.5,7.0,81.1,Salvador
+26,Aluno_26,18,2º Ano,5.3,5.6,5.6,98.8,Belo Horizonte
+27,Aluno_27,17,3º Ano,4.3,7.1,5.3,89.0,Curitiba
+28,Aluno_28,14,1º Ano,7.8,4.0,5.7,68.5,Salvador
+29,Aluno_29,14,3º Ano,9.5,5.5,5.2,64.2,Salvador
+30,Aluno_30,16,2º Ano,6.6,5.1,5.7,87.5,São Paulo
+31,Aluno_31,16,2º Ano,6.6,6.7,4.7,66.3,Rio de Janeiro
+32,Aluno_32,15,1º Ano,4.6,7.4,6.9,91.5,Curitiba
+33,Aluno_33,17,2º Ano,3.6,7.6,6.8,72.4,Curitiba
+34,Aluno_34,17,1º Ano,5.9,8.0,6.8,73.1,Curitiba
+35,Aluno_35,19,2º Ano,4.1,8.6,6.1,60.4,Salvador
+36,Aluno_36,19,2º Ano,2.5,7.4,5.9,88.0,São Paulo
+37,Aluno_37,19,1º Ano,7.6,9.3,8.8,64.5,Salvador
+38,Aluno_38,16,1º Ano,7.7,6.7,6.3,90.9,Salvador
+39,Aluno_39,17,1º Ano,4.3,6.2,8.5,79.7,Belo Horizonte
+40,Aluno_40,17,2º Ano,6.5,7.4,4.4,91.4,São Paulo
+41,Aluno_41,14,2º Ano,8.0,6.2,7.3,83.4,Curitiba
+42,Aluno_42,16,3º Ano,6.4,9.3,4.9,63.3,Rio de Janeiro
+43,Aluno_43,18,1º Ano,3.6,8.2,5.2,90.6,Curitiba
+44,Aluno_44,16,2º Ano,5.5,7.6,5.5,62.8,Salvador
+45,Aluno_45,18,2º Ano,8.7,6.7,5.3,79.1,São Paulo
+46,Aluno_46,14,1º Ano,6.5,5.9,5.4,66.9,São Paulo
+47,Aluno_47,15,3º Ano,7.1,7.6,8.4,90.1,São Paulo
+48,Aluno_48,17,1º Ano,6.7,4.8,6.3,96.5,Belo Horizonte
+49,Aluno_49,14,3º Ano,4.3,8.8,6.6,82.2,Curitiba
+50,Aluno_50,17,2º Ano,4.8,6.2,5.4,81.1,Belo Horizonte
+51,Aluno_51,19,3º Ano,6.7,7.0,7.7,90.6,Rio de Janeiro
+52,Aluno_52,15,2º Ano,7.6,5.1,6.8,60.2,Salvador
+53,Aluno_53,15,1º Ano,8.2,7.6,5.6,96.7,Belo Horizonte
+54,Aluno_54,14,1º Ano,4.3,5.8,3.3,67.9,Belo Horizonte
+55,Aluno_55,15,1º Ano,6.9,7.5,6.6,99.4,Salvador
+56,Aluno_56,18,3º Ano,8.4,7.6,7.2,89.5,São Paulo
+57,Aluno_57,15,2º Ano,4.0,5.5,4.4,91.0,Salvador
+58,Aluno_58,17,1º Ano,9.0,4.8,5.7,86.2,Curitiba
+59,Aluno_59,17,1º Ano,9.3,8.8,7.2,78.9,Salvador
+60,Aluno_60,17,2º Ano,10.0,6.2,3.4,82.9,São Paulo
+61,Aluno_61,17,1º Ano,6.5,6.8,5.0,61.9,Salvador
+62,Aluno_62,18,2º Ano,6.5,7.2,6.9,85.0,Belo Horizonte
+63,Aluno_63,16,2º Ano,7.7,4.6,8.2,85.0,Rio de Janeiro
+64,Aluno_64,19,2º Ano,7.6,7.2,10.0,95.6,Belo Horizonte
+65,Aluno_65,14,2º Ano,8.3,6.6,9.7,80.2,Rio de Janeiro
+66,Aluno_66,17,2º Ano,7.6,5.5,6.5,63.1,Salvador
+67,Aluno_67,15,3º Ano,5.8,4.8,5.3,72.2,Curitiba
+68,Aluno_68,17,1º Ano,8.4,7.4,7.9,86.2,Salvador
+69,Aluno_69,15,3º Ano,3.9,8.2,5.2,69.6,São Paulo
+70,Aluno_70,19,1º Ano,6.0,6.8,4.8,71.2,Salvador
+71,Aluno_71,19,3º Ano,9.1,4.3,5.7,92.8,Rio de Janeiro
+72,Aluno_72,19,2º Ano,3.5,4.9,5.4,83.4,Belo Horizonte
+73,Aluno_73,15,1º Ano,4.6,5.9,6.9,80.3,Curitiba
+74,Aluno_74,17,1º Ano,7.3,8.8,5.1,72.7,Salvador
+75,Aluno_75,19,3º Ano,6.8,6.1,6.4,89.2,Salvador
+76,Aluno_76,18,3º Ano,4.2,5.8,9.1,71.5,Belo Horizonte
+77,Aluno_77,15,1º Ano,5.2,4.0,6.4,89.5,Curitiba
+78,Aluno_78,15,3º Ano,3.6,5.5,8.9,62.8,Salvador
+79,Aluno_79,17,3º Ano,8.0,4.7,8.4,94.6,Salvador
+80,Aluno_80,15,3º Ano,5.5,5.0,7.3,80.0,Rio de Janeiro
+81,Aluno_81,15,2º Ano,9.6,6.7,5.6,77.5,Rio de Janeiro
+82,Aluno_82,19,2º Ano,6.2,5.9,8.1,84.4,São Paulo
+83,Aluno_83,17,3º Ano,5.6,9.0,5.8,85.0,Belo Horizonte
+84,Aluno_84,19,3º Ano,5.4,8.1,6.2,65.3,Curitiba
+85,Aluno_85,19,2º Ano,5.5,5.6,6.8,90.2,Salvador
+86,Aluno_86,17,2º Ano,6.2,5.1,6.2,71.0,Salvador
+87,Aluno_87,14,1º Ano,10.0,8.6,4.9,96.2,São Paulo
+88,Aluno_88,19,1º Ano,5.3,9.0,3.5,92.7,Salvador
+89,Aluno_89,18,2º Ano,5.4,3.2,7.9,73.9,Belo Horizonte
+90,Aluno_90,18,3º Ano,6.1,6.6,7.2,92.3,São Paulo
+91,Aluno_91,15,3º Ano,8.2,6.1,3.1,74.3,Belo Horizonte
+92,Aluno_92,18,3º Ano,3.2,7.5,4.9,64.0,São Paulo
+93,Aluno_93,15,3º Ano,6.9,9.4,6.5,98.5,Salvador
+94,Aluno_94,14,1º Ano,4.4,5.8,7.0,86.1,São Paulo
+95,Aluno_95,17,2º Ano,7.1,3.4,3.5,78.2,Rio de Janeiro
+96,Aluno_96,17,3º Ano,5.0,7.4,6.0,75.9,Curitiba
+97,Aluno_97,17,1º Ano,1.4,8.6,7.2,73.0,Salvador
+98,Aluno_98,18,3º Ano,6.7,6.0,5.6,99.3,Curitiba
+99,Aluno_99,14,2º Ano,6.7,5.4,6.7,65.4,Salvador
+100,Aluno_100,18,1º Ano,4.8,5.8,5.3,72.6,Curitiba
+101,Aluno_101,18,2º Ano,4.7,7.8,7.8,79.4,Rio de Janeiro
+102,Aluno_102,14,2º Ano,3.4,5.8,4.8,79.1,Curitiba
+103,Aluno_103,14,1º Ano,7.5,7.0,4.1,78.9,São Paulo
+104,Aluno_104,14,1º Ano,7.8,6.5,6.3,67.0,Curitiba
+105,Aluno_105,14,1º Ano,4.2,6.4,3.6,65.8,Salvador
+106,Aluno_106,17,1º Ano,4.9,7.6,2.4,70.2,Belo Horizonte
+107,Aluno_107,16,1º Ano,5.9,5.8,8.2,96.6,Curitiba
+108,Aluno_108,16,1º Ano,10.0,5.9,4.4,64.5,Curitiba
+109,Aluno_109,14,1º Ano,7.1,7.7,3.8,90.3,Curitiba
+110,Aluno_110,16,3º Ano,4.1,5.0,4.7,90.3,Salvador
+111,Aluno_111,16,2º Ano,6.6,5.2,4.7,92.4,Curitiba
+112,Aluno_112,14,1º Ano,3.2,4.6,5.9,95.5,Salvador
+113,Aluno_113,16,3º Ano,7.4,7.8,4.2,70.5,Salvador
+114,Aluno_114,18,3º Ano,9.4,6.3,7.1,69.0,Belo Horizonte
+115,Aluno_115,15,3º Ano,9.4,4.5,7.4,78.6,São Paulo
+116,Aluno_116,15,2º Ano,7.5,7.8,3.9,70.6,Salvador
+117,Aluno_117,14,1º Ano,4.8,5.7,5.1,89.4,Rio de Janeiro
+118,Aluno_118,17,3º Ano,3.4,5.2,5.3,85.4,Curitiba
+119,Aluno_119,14,2º Ano,3.2,6.2,5.9,95.0,Rio de Janeiro
+120,Aluno_120,17,2º Ano,0.4,8.7,8.1,63.3,Curitiba
+121,Aluno_121,15,2º Ano,7.4,5.9,8.3,96.6,Belo Horizonte
+122,Aluno_122,14,3º Ano,5.8,7.4,10.0,71.7,Salvador
+123,Aluno_123,19,1º Ano,7.8,7.6,2.1,79.6,São Paulo
+124,Aluno_124,18,3º Ano,8.9,7.2,4.5,77.5,Salvador
+125,Aluno_125,16,3º Ano,6.2,8.4,9.5,90.4,Curitiba
+126,Aluno_126,17,1º Ano,6.3,5.4,3.0,76.8,São Paulo
+127,Aluno_127,19,1º Ano,5.1,4.9,9.4,97.7,Salvador
+128,Aluno_128,16,1º Ano,5.3,4.9,6.5,96.1,São Paulo
+129,Aluno_129,16,2º Ano,7.5,6.3,6.5,94.9,Curitiba
+130,Aluno_130,14,1º Ano,5.7,5.1,3.9,62.9,Belo Horizonte
+131,Aluno_131,16,3º Ano,5.4,6.7,5.4,94.2,Belo Horizonte
+132,Aluno_132,18,1º Ano,6.0,6.6,9.3,91.3,Salvador
+133,Aluno_133,19,3º Ano,7.8,8.0,6.1,64.1,Rio de Janeiro
+134,Aluno_134,16,2º Ano,4.6,6.9,5.4,64.3,Curitiba
+135,Aluno_135,14,3º Ano,5.9,5.9,6.9,64.0,Salvador
+136,Aluno_136,18,3º Ano,6.5,7.1,5.9,60.5,Salvador
+137,Aluno_137,15,1º Ano,8.3,5.0,6.8,81.9,Belo Horizonte
+138,Aluno_138,19,1º Ano,5.5,6.4,4.7,98.9,São Paulo
+139,Aluno_139,16,3º Ano,4.6,7.0,6.1,77.5,Curitiba
+140,Aluno_140,14,1º Ano,5.0,6.7,5.0,81.6,São Paulo
+141,Aluno_141,15,2º Ano,8.1,7.1,3.0,98.7,Curitiba
+142,Aluno_142,15,2º Ano,10.0,5.5,7.1,70.2,Rio de Janeiro
+143,Aluno_143,17,1º Ano,3.4,8.2,4.0,94.3,Belo Horizonte
+144,Aluno_144,18,2º Ano,3.8,9.2,5.9,81.9,Rio de Janeiro
+145,Aluno_145,16,1º Ano,5.7,4.1,7.9,82.8,Salvador
+146,Aluno_146,14,3º Ano,6.2,4.7,3.5,73.7,Belo Horizonte
+147,Aluno_147,17,3º Ano,7.6,6.6,7.3,82.5,Salvador
+148,Aluno_148,18,2º Ano,4.2,6.1,5.7,62.9,Rio de Janeiro
+149,Aluno_149,17,1º Ano,3.9,9.3,4.5,90.6,Curitiba
+150,Aluno_150,19,1º Ano,6.3,6.8,9.8,71.4,Salvador
+151,Aluno_151,18,2º Ano,5.5,8.6,6.2,95.5,São Paulo
+152,Aluno_152,18,3º Ano,7.9,3.4,5.2,74.7,Curitiba
+153,Aluno_153,16,2º Ano,7.0,7.7,4.8,65.7,Curitiba
+154,Aluno_154,18,3º Ano,7.1,5.4,7.8,87.8,Rio de Janeiro
+155,Aluno_155,17,1º Ano,5.8,5.4,5.1,66.6,Rio de Janeiro
+156,Aluno_156,18,3º Ano,10.0,6.1,7.6,90.1,Belo Horizonte
+157,Aluno_157,16,2º Ano,4.3,4.4,6.2,98.7,Belo Horizonte
+158,Aluno_158,16,1º Ano,7.2,7.2,8.2,91.2,São Paulo
+159,Aluno_159,19,2º Ano,3.5,6.8,4.3,60.9,Curitiba
+160,Aluno_160,17,2º Ano,3.9,6.9,4.6,84.0,São Paulo
+161,Aluno_161,15,3º Ano,4.8,7.8,5.7,87.8,São Paulo
+162,Aluno_162,15,2º Ano,9.3,8.8,5.8,93.0,Rio de Janeiro
+163,Aluno_163,18,3º Ano,6.5,6.0,5.6,62.2,São Paulo
+164,Aluno_164,19,1º Ano,4.8,7.2,10.0,79.2,São Paulo
+165,Aluno_165,14,3º Ano,6.7,6.9,9.9,81.4,Salvador
+166,Aluno_166,18,1º Ano,6.1,7.1,6.7,66.8,Belo Horizonte
+167,Aluno_167,19,3º Ano,5.0,7.1,7.0,72.9,Belo Horizonte
+168,Aluno_168,17,2º Ano,3.2,8.9,5.8,77.6,Curitiba
+169,Aluno_169,17,3º Ano,8.9,5.8,4.3,93.3,Belo Horizonte
+170,Aluno_170,17,3º Ano,6.4,4.2,5.9,97.2,Curitiba
+171,Aluno_171,17,1º Ano,10.0,5.5,7.6,85.1,Salvador
+172,Aluno_172,17,2º Ano,7.9,7.6,8.6,75.8,Belo Horizonte
+173,Aluno_173,19,3º Ano,7.1,6.5,8.0,70.2,Salvador
+174,Aluno_174,19,2º Ano,5.1,5.8,3.5,99.3,Belo Horizonte
+175,Aluno_175,16,3º Ano,3.8,4.9,5.7,99.3,Belo Horizonte
+176,Aluno_176,15,3º Ano,5.6,6.8,3.6,97.0,Salvador
+177,Aluno_177,17,2º Ano,3.8,7.5,8.3,91.4,São Paulo
+178,Aluno_178,14,3º Ano,7.3,7.0,5.5,73.0,São Paulo
+179,Aluno_179,19,2º Ano,9.3,6.1,6.1,92.7,São Paulo
+180,Aluno_180,14,3º Ano,5.5,6.7,7.1,76.4,São Paulo
+181,Aluno_181,14,1º Ano,7.9,6.7,10.0,73.1,Belo Horizonte
+182,Aluno_182,14,2º Ano,4.6,6.8,6.7,89.8,Rio de Janeiro
+183,Aluno_183,16,3º Ano,5.4,4.7,5.8,63.2,Salvador
+184,Aluno_184,19,3º Ano,4.4,6.8,4.0,61.9,Rio de Janeiro
+185,Aluno_185,14,1º Ano,1.7,5.8,8.8,77.9,Rio de Janeiro
+186,Aluno_186,17,2º Ano,5.9,8.1,5.9,77.8,Curitiba
+187,Aluno_187,18,3º Ano,6.3,6.7,9.2,95.8,São Paulo
+188,Aluno_188,14,1º Ano,8.1,7.8,8.2,65.0,Belo Horizonte
+189,Aluno_189,16,3º Ano,7.6,6.0,5.4,64.9,São Paulo
+190,Aluno_190,19,2º Ano,7.6,6.1,3.7,65.9,São Paulo
+191,Aluno_191,16,3º Ano,4.1,8.7,6.7,61.2,Rio de Janeiro
+192,Aluno_192,14,3º Ano,6.9,7.2,5.1,62.9,Curitiba
+193,Aluno_193,19,3º Ano,9.2,5.4,6.3,86.4,São Paulo
+194,Aluno_194,18,3º Ano,6.8,7.8,8.1,77.3,Salvador
+195,Aluno_195,14,1º Ano,9.7,5.7,3.2,90.5,Salvador
+196,Aluno_196,16,1º Ano,10.0,6.8,6.7,99.7,São Paulo
+197,Aluno_197,15,2º Ano,5.5,9.3,7.6,86.4,Rio de Janeiro
+198,Aluno_198,17,1º Ano,4.6,4.4,7.7,62.0,Rio de Janeiro
+199,Aluno_199,16,1º Ano,4.5,6.2,3.7,64.2,Belo Horizonte
+200,Aluno_200,19,2º Ano,3.0,7.1,7.0,95.2,Curitiba
+201,Aluno_201,14,1º Ano,5.0,7.6,8.4,81.1,Rio de Janeiro
+202,Aluno_202,17,1º Ano,8.4,4.6,6.8,93.0,Belo Horizonte
+203,Aluno_203,14,2º Ano,1.6,4.2,6.0,94.3,Salvador
+204,Aluno_204,19,2º Ano,3.9,8.1,8.3,97.1,Salvador
+205,Aluno_205,14,2º Ano,5.7,5.4,5.0,98.0,Salvador
+206,Aluno_206,15,3º Ano,4.2,5.4,3.4,82.2,São Paulo
+207,Aluno_207,17,3º Ano,4.9,8.8,5.8,73.6,Curitiba
+208,Aluno_208,17,2º Ano,5.0,6.6,7.2,98.5,Belo Horizonte
+209,Aluno_209,19,2º Ano,5.5,6.6,8.1,81.9,Curitiba
+210,Aluno_210,15,2º Ano,4.5,6.2,7.2,62.6,São Paulo
+211,Aluno_211,16,3º Ano,4.4,4.7,7.7,85.7,Belo Horizonte
+212,Aluno_212,14,3º Ano,7.9,7.5,8.1,83.5,Belo Horizonte
+213,Aluno_213,18,1º Ano,8.1,7.1,5.6,95.8,Rio de Janeiro
+214,Aluno_214,14,1º Ano,3.2,6.8,5.9,86.1,Curitiba
+215,Aluno_215,14,2º Ano,0.5,6.3,8.5,74.0,Curitiba
+216,Aluno_216,16,3º Ano,8.1,6.1,4.0,98.6,Rio de Janeiro
+217,Aluno_217,14,3º Ano,3.5,7.9,7.0,92.1,Salvador
+218,Aluno_218,15,3º Ano,6.4,6.3,4.9,85.2,São Paulo
+219,Aluno_219,15,2º Ano,2.9,6.4,8.2,71.7,Curitiba
+220,Aluno_220,17,1º Ano,8.6,7.3,6.2,74.9,Rio de Janeiro
+221,Aluno_221,19,2º Ano,10.0,6.8,6.2,86.8,Belo Horizonte
+222,Aluno_222,18,1º Ano,6.4,9.0,9.3,62.9,Rio de Janeiro
+223,Aluno_223,14,1º Ano,5.8,3.9,4.3,70.3,Salvador
+224,Aluno_224,14,2º Ano,5.4,6.9,6.6,88.6,São Paulo
+225,Aluno_225,16,1º Ano,7.6,5.4,5.9,79.2,Salvador
+226,Aluno_226,19,1º Ano,7.1,5.1,7.2,76.1,Belo Horizonte
+227,Aluno_227,15,3º Ano,8.0,5.8,9.7,66.1,Belo Horizonte
+228,Aluno_228,18,1º Ano,4.7,6.6,5.1,77.7,Belo Horizonte
+229,Aluno_229,17,2º Ano,6.7,6.6,4.0,90.8,Belo Horizonte
+230,Aluno_230,15,2º Ano,4.9,4.2,4.7,70.6,Rio de Janeiro
+231,Aluno_231,19,1º Ano,3.9,5.7,5.8,60.2,Belo Horizonte
+232,Aluno_232,17,3º Ano,5.9,6.9,6.3,86.7,Belo Horizonte
+233,Aluno_233,16,3º Ano,4.2,5.2,6.4,98.9,Rio de Janeiro
+234,Aluno_234,16,1º Ano,8.3,4.8,9.4,84.3,Belo Horizonte
+235,Aluno_235,14,1º Ano,4.3,3.1,9.1,64.8,Salvador
+236,Aluno_236,19,2º Ano,6.7,5.5,8.5,72.8,Salvador
+237,Aluno_237,18,1º Ano,4.8,4.8,10.0,94.7,Curitiba
+238,Aluno_238,17,3º Ano,6.6,5.0,7.7,69.3,Salvador
+239,Aluno_239,15,1º Ano,5.0,6.1,8.2,84.3,São Paulo
+240,Aluno_240,19,2º Ano,3.5,5.6,7.6,76.1,São Paulo
+241,Aluno_241,19,2º Ano,7.0,4.8,7.4,68.3,São Paulo
+242,Aluno_242,16,2º Ano,5.5,3.3,6.9,92.5,Rio de Janeiro
+243,Aluno_243,14,2º Ano,6.6,7.0,5.5,89.7,Salvador
+244,Aluno_244,14,2º Ano,5.1,7.6,4.0,86.5,São Paulo
+245,Aluno_245,17,1º Ano,3.3,5.9,6.0,69.5,Curitiba
+246,Aluno_246,16,1º Ano,8.2,6.1,7.2,63.9,Rio de Janeiro
+247,Aluno_247,19,1º Ano,7.5,6.5,6.3,83.0,Curitiba
+248,Aluno_248,18,1º Ano,4.9,8.9,4.3,82.1,Salvador
+249,Aluno_249,16,2º Ano,6.1,4.1,5.9,67.5,Belo Horizonte
+250,Aluno_250,17,3º Ano,8.1,5.9,5.8,62.2,Curitiba
+251,Aluno_251,17,1º Ano,5.1,3.9,6.1,63.2,Belo Horizonte
+252,Aluno_252,16,3º Ano,5.4,7.0,7.1,99.7,Rio de Janeiro
+253,Aluno_253,17,1º Ano,6.5,6.3,7.5,91.3,Curitiba
+254,Aluno_254,16,1º Ano,5.1,6.8,5.3,96.9,Curitiba
+255,Aluno_255,15,3º Ano,7.7,6.7,8.0,67.8,Rio de Janeiro
+256,Aluno_256,16,2º Ano,5.7,8.0,8.2,98.4,Rio de Janeiro
+257,Aluno_257,16,1º Ano,4.4,7.3,6.8,65.7,São Paulo
+258,Aluno_258,17,1º Ano,7.2,7.7,7.4,80.4,Salvador
+259,Aluno_259,17,1º Ano,3.7,4.9,8.0,93.2,Curitiba
+260,Aluno_260,14,3º Ano,10.0,8.3,4.2,74.0,Curitiba
+261,Aluno_261,14,2º Ano,9.2,5.4,8.1,77.0,Rio de Janeiro
+262,Aluno_262,15,3º Ano,7.0,5.5,4.8,65.1,Rio de Janeiro
+263,Aluno_263,14,3º Ano,6.9,6.9,5.0,64.9,Salvador
+264,Aluno_264,16,2º Ano,6.8,7.0,6.6,84.8,Rio de Janeiro
+265,Aluno_265,17,3º Ano,5.0,4.9,2.3,87.0,Belo Horizonte
+266,Aluno_266,14,2º Ano,6.6,6.2,6.5,91.1,Belo Horizonte
+267,Aluno_267,14,1º Ano,4.2,8.7,8.0,82.3,Belo Horizonte
+268,Aluno_268,15,2º Ano,7.0,4.3,3.2,85.8,Belo Horizonte
+269,Aluno_269,19,1º Ano,7.7,8.7,8.2,60.5,Salvador
+270,Aluno_270,15,3º Ano,5.2,6.1,4.9,66.5,Curitiba
+271,Aluno_271,16,3º Ano,4.8,3.0,6.6,99.4,Belo Horizonte
+272,Aluno_272,17,1º Ano,3.6,4.4,5.2,63.0,Rio de Janeiro
+273,Aluno_273,15,3º Ano,8.9,5.1,7.2,87.2,Belo Horizonte
+274,Aluno_274,14,2º Ano,5.0,5.6,8.0,67.0,Salvador
+275,Aluno_275,17,1º Ano,5.6,6.3,7.4,88.7,Rio de Janeiro
+276,Aluno_276,17,3º Ano,6.6,2.4,6.2,88.2,Belo Horizonte
+277,Aluno_277,14,1º Ano,6.6,6.8,5.3,69.4,Curitiba
+278,Aluno_278,15,2º Ano,7.5,4.9,6.1,70.8,Rio de Janeiro
+279,Aluno_279,14,2º Ano,5.2,8.6,7.4,86.2,Rio de Janeiro
+280,Aluno_280,19,3º Ano,3.7,6.1,7.4,75.6,Curitiba
+281,Aluno_281,17,2º Ano,3.4,7.9,7.2,67.8,Rio de Janeiro
+282,Aluno_282,18,1º Ano,4.8,8.2,3.9,89.3,Belo Horizonte
+283,Aluno_283,18,2º Ano,4.1,8.1,6.2,66.2,Rio de Janeiro
+284,Aluno_284,16,1º Ano,5.4,5.7,5.1,94.2,Belo Horizonte
+285,Aluno_285,14,1º Ano,8.6,5.6,7.4,80.6,Curitiba
+286,Aluno_286,14,2º Ano,5.2,6.2,4.8,64.2,São Paulo
+287,Aluno_287,16,3º Ano,5.2,7.5,7.0,87.8,Curitiba
+288,Aluno_288,16,2º Ano,6.0,5.7,5.7,80.8,Belo Horizonte
+289,Aluno_289,16,1º Ano,5.2,6.3,2.8,71.9,Salvador
+290,Aluno_290,17,1º Ano,5.9,6.9,7.9,76.9,Curitiba
+291,Aluno_291,19,2º Ano,7.1,5.1,6.2,71.9,Salvador
+292,Aluno_292,14,3º Ano,7.8,5.0,8.5,70.5,Salvador
+293,Aluno_293,17,3º Ano,8.0,6.3,3.2,66.5,Belo Horizonte
+294,Aluno_294,16,1º Ano,10.0,6.5,5.7,74.5,Belo Horizonte
+295,Aluno_295,14,1º Ano,7.1,7.2,5.8,70.0,São Paulo
+296,Aluno_296,17,3º Ano,10.0,7.5,6.7,87.3,Rio de Janeiro
+297,Aluno_297,19,2º Ano,4.4,4.9,3.8,87.4,Curitiba
+298,Aluno_298,17,1º Ano,10.0,5.3,7.2,80.1,Belo Horizonte
+299,Aluno_299,19,1º Ano,5.2,5.0,9.6,91.1,Curitiba
+300,Aluno_300,16,3º Ano,5.4,8.6,7.1,93.7,Salvador
+301,Aluno_301,19,2º Ano,5.8,6.3,6.4,83.2,Rio de Janeiro
+302,Aluno_302,14,3º Ano,5.6,6.5,3.7,84.8,São Paulo
+303,Aluno_303,16,2º Ano,6.2,6.6,4.8,71.3,Curitiba
+304,Aluno_304,14,2º Ano,4.8,5.4,6.1,95.8,Rio de Janeiro
+305,Aluno_305,18,2º Ano,7.7,8.8,5.2,61.0,São Paulo
+306,Aluno_306,15,1º Ano,4.9,7.1,8.0,73.9,Curitiba
+307,Aluno_307,19,3º Ano,7.3,6.6,7.2,88.9,Rio de Janeiro
+308,Aluno_308,15,3º Ano,9.1,4.8,10.0,63.2,Belo Horizonte
+309,Aluno_309,15,2º Ano,5.3,4.8,4.4,67.3,Curitiba
+310,Aluno_310,19,1º Ano,7.6,6.0,6.3,83.6,Rio de Janeiro
+311,Aluno_311,16,1º Ano,7.1,5.5,3.7,82.4,São Paulo
+312,Aluno_312,18,3º Ano,10.0,4.9,2.2,89.6,Rio de Janeiro
+313,Aluno_313,14,1º Ano,5.0,5.9,7.5,92.5,Belo Horizonte
+314,Aluno_314,17,1º Ano,7.6,6.2,7.1,65.1,Curitiba
+315,Aluno_315,14,2º Ano,2.7,6.7,4.7,60.7,Curitiba
+316,Aluno_316,17,1º Ano,5.0,5.7,6.4,87.6,Curitiba
+317,Aluno_317,14,2º Ano,6.7,5.0,5.1,72.1,Belo Horizonte
+318,Aluno_318,19,3º Ano,8.8,5.0,5.3,85.0,São Paulo
+319,Aluno_319,18,1º Ano,3.5,8.3,5.6,66.0,Curitiba
+320,Aluno_320,17,3º Ano,7.6,4.6,4.6,78.8,São Paulo
+321,Aluno_321,16,3º Ano,5.9,7.0,4.9,80.2,Rio de Janeiro
+322,Aluno_322,14,1º Ano,3.0,7.3,5.0,83.4,São Paulo
+323,Aluno_323,14,1º Ano,6.4,6.3,7.0,80.5,São Paulo
+324,Aluno_324,17,3º Ano,9.4,9.2,1.2,79.8,Curitiba
+325,Aluno_325,16,1º Ano,3.8,7.3,5.8,73.3,Salvador
+326,Aluno_326,16,2º Ano,5.8,9.3,4.2,62.8,Salvador
+327,Aluno_327,19,2º Ano,4.0,5.5,4.3,63.6,Belo Horizonte
+328,Aluno_328,19,1º Ano,5.1,5.5,5.3,77.4,Belo Horizonte
+329,Aluno_329,19,3º Ano,8.9,7.3,6.2,74.2,Salvador
+330,Aluno_330,19,1º Ano,5.5,6.1,5.8,80.6,Rio de Janeiro
+331,Aluno_331,19,1º Ano,8.8,9.0,4.3,72.2,Curitiba
+332,Aluno_332,19,3º Ano,8.2,7.0,7.5,87.5,Curitiba
+333,Aluno_333,18,3º Ano,5.3,4.9,4.6,94.6,Rio de Janeiro
+334,Aluno_334,16,2º Ano,5.0,3.9,4.9,72.0,Rio de Janeiro
+335,Aluno_335,19,3º Ano,4.2,6.4,6.7,67.7,Salvador
+336,Aluno_336,16,2º Ano,4.1,6.4,6.8,64.6,Belo Horizonte
+337,Aluno_337,16,3º Ano,6.7,7.0,5.1,84.7,Rio de Janeiro
+338,Aluno_338,15,1º Ano,6.0,8.3,0.9,77.8,Belo Horizonte
+339,Aluno_339,18,2º Ano,4.8,8.1,4.6,67.5,São Paulo
+340,Aluno_340,19,2º Ano,2.9,5.6,6.5,86.1,Curitiba
+341,Aluno_341,14,2º Ano,6.2,4.6,7.4,65.9,Salvador
+342,Aluno_342,17,1º Ano,5.1,4.6,6.1,82.2,Curitiba
+343,Aluno_343,14,1º Ano,5.6,5.4,5.3,81.1,Salvador
+344,Aluno_344,18,1º Ano,6.6,5.9,10.0,89.4,São Paulo
+345,Aluno_345,17,1º Ano,1.0,7.0,5.5,62.2,Curitiba
+346,Aluno_346,18,1º Ano,2.9,5.3,7.3,95.5,São Paulo
+347,Aluno_347,16,2º Ano,10.0,6.9,3.8,88.1,Salvador
+348,Aluno_348,17,1º Ano,5.0,7.0,4.2,68.6,Rio de Janeiro
+349,Aluno_349,16,2º Ano,1.0,6.7,7.4,67.3,Curitiba
+350,Aluno_350,14,1º Ano,3.1,4.8,8.1,77.3,São Paulo
+351,Aluno_351,14,3º Ano,10.0,7.2,5.5,92.7,Curitiba
+352,Aluno_352,17,2º Ano,4.6,9.6,2.9,93.7,Curitiba
+353,Aluno_353,17,3º Ano,8.3,6.9,5.9,80.8,Curitiba
+354,Aluno_354,19,2º Ano,6.2,2.1,6.5,94.4,Belo Horizonte
+355,Aluno_355,18,3º Ano,5.0,8.4,6.4,60.2,São Paulo
+356,Aluno_356,19,1º Ano,7.6,5.4,5.2,61.4,São Paulo
+357,Aluno_357,18,1º Ano,1.2,9.9,5.9,96.5,Curitiba
+358,Aluno_358,19,1º Ano,3.1,6.7,4.9,91.0,Rio de Janeiro
+359,Aluno_359,16,2º Ano,5.0,4.0,4.2,78.0,Curitiba
+360,Aluno_360,17,3º Ano,3.3,3.4,7.6,90.1,Belo Horizonte
+361,Aluno_361,14,1º Ano,4.8,8.8,6.4,98.2,Salvador
+362,Aluno_362,18,3º Ano,7.7,8.2,5.9,90.9,Belo Horizonte
+363,Aluno_363,18,3º Ano,6.3,9.8,5.3,93.7,Rio de Janeiro
+364,Aluno_364,14,1º Ano,8.7,6.5,5.9,90.4,Curitiba
+365,Aluno_365,19,1º Ano,6.4,6.4,6.5,66.7,São Paulo
+366,Aluno_366,18,3º Ano,8.0,5.9,9.3,93.3,Curitiba
+367,Aluno_367,16,1º Ano,5.9,5.5,7.4,67.8,Rio de Janeiro
+368,Aluno_368,17,1º Ano,4.8,5.9,5.0,95.7,São Paulo
+369,Aluno_369,14,1º Ano,9.0,6.8,5.0,78.3,Belo Horizonte
+370,Aluno_370,17,2º Ano,4.6,5.2,4.7,87.1,Salvador
+371,Aluno_371,18,3º Ano,6.7,4.0,5.8,79.9,Salvador
+372,Aluno_372,18,3º Ano,7.5,6.7,4.7,63.8,Curitiba
+373,Aluno_373,14,2º Ano,7.7,5.2,7.1,71.6,Belo Horizonte
+374,Aluno_374,16,3º Ano,3.7,1.6,1.4,99.3,Rio de Janeiro
+375,Aluno_375,15,1º Ano,8.1,7.3,7.2,98.4,Salvador
+376,Aluno_376,14,3º Ano,4.0,4.8,6.7,72.8,Belo Horizonte
+377,Aluno_377,15,1º Ano,7.6,7.5,8.5,99.9,Curitiba
+378,Aluno_378,19,2º Ano,7.1,7.5,7.8,93.8,São Paulo
+379,Aluno_379,15,1º Ano,7.6,6.9,5.0,84.4,Curitiba
+380,Aluno_380,16,3º Ano,3.6,10.0,7.6,61.6,Curitiba
+381,Aluno_381,19,3º Ano,7.2,6.3,5.9,96.1,Belo Horizonte
+382,Aluno_382,15,3º Ano,8.2,6.1,2.7,82.3,Salvador
+383,Aluno_383,19,2º Ano,6.4,7.5,6.5,94.7,Belo Horizonte
+384,Aluno_384,15,2º Ano,4.4,6.4,5.1,93.4,São Paulo
+385,Aluno_385,16,3º Ano,7.8,8.2,6.2,93.3,Belo Horizonte
+386,Aluno_386,15,1º Ano,6.2,4.6,9.2,87.9,Rio de Janeiro
+387,Aluno_387,15,2º Ano,2.7,4.6,6.6,71.7,Curitiba
+388,Aluno_388,15,3º Ano,4.2,7.6,4.4,73.4,Salvador
+389,Aluno_389,14,3º Ano,4.9,4.8,7.9,72.3,São Paulo
+390,Aluno_390,14,2º Ano,9.0,7.4,6.9,60.8,Curitiba
+391,Aluno_391,14,2º Ano,8.7,7.1,4.2,83.3,Belo Horizonte
+392,Aluno_392,16,2º Ano,8.7,5.5,3.3,88.0,Rio de Janeiro
+393,Aluno_393,19,1º Ano,6.5,7.1,4.4,94.2,Belo Horizonte
+394,Aluno_394,18,1º Ano,7.8,4.6,7.7,65.6,Curitiba
+395,Aluno_395,15,3º Ano,3.7,5.0,5.7,81.8,São Paulo
+396,Aluno_396,15,2º Ano,6.0,6.1,6.3,60.3,Salvador
+397,Aluno_397,16,1º Ano,6.9,6.6,3.8,63.8,Curitiba
+398,Aluno_398,15,2º Ano,3.9,6.0,7.8,62.2,São Paulo
+399,Aluno_399,14,3º Ano,6.4,7.1,2.6,89.0,Curitiba
+400,Aluno_400,18,1º Ano,9.4,7.1,5.0,63.2,Rio de Janeiro
+401,Aluno_401,17,1º Ano,7.1,8.8,7.0,88.7,Belo Horizonte
+402,Aluno_402,15,1º Ano,7.8,6.4,4.2,70.0,Salvador
+403,Aluno_403,14,3º Ano,1.1,8.3,7.3,95.1,São Paulo
+404,Aluno_404,17,2º Ano,9.1,7.9,4.6,92.5,Salvador
+405,Aluno_405,18,1º Ano,5.6,9.9,4.0,98.3,Salvador
+406,Aluno_406,17,3º Ano,4.5,6.3,8.5,95.4,Salvador
+407,Aluno_407,14,2º Ano,5.7,5.9,6.5,97.3,São Paulo
+408,Aluno_408,19,3º Ano,3.0,8.4,7.1,94.3,São Paulo
+409,Aluno_409,19,2º Ano,8.1,7.1,8.0,87.7,Salvador
+410,Aluno_410,17,3º Ano,5.3,8.4,1.5,66.8,Belo Horizonte
+411,Aluno_411,16,2º Ano,4.5,7.6,7.3,70.9,Curitiba
+412,Aluno_412,17,1º Ano,5.7,3.3,4.8,68.5,Salvador
+413,Aluno_413,15,2º Ano,8.2,7.1,5.1,84.1,Rio de Janeiro
+414,Aluno_414,15,3º Ano,6.3,7.0,7.0,80.1,Salvador
+415,Aluno_415,19,3º Ano,3.2,6.7,5.5,94.7,São Paulo
+416,Aluno_416,16,2º Ano,6.9,6.3,7.3,98.1,Curitiba
+417,Aluno_417,14,1º Ano,4.1,4.1,6.1,76.2,Rio de Janeiro
+418,Aluno_418,15,1º Ano,1.7,7.8,6.5,80.3,Curitiba
+419,Aluno_419,19,2º Ano,9.0,7.1,5.3,98.9,Curitiba
+420,Aluno_420,18,2º Ano,6.9,8.2,4.3,71.0,Rio de Janeiro
+421,Aluno_421,19,3º Ano,5.8,4.2,4.9,91.7,Salvador
+422,Aluno_422,15,1º Ano,5.3,7.3,6.0,69.0,Salvador
+423,Aluno_423,15,2º Ano,8.8,6.1,9.5,87.3,Salvador
+424,Aluno_424,19,1º Ano,10.0,6.7,8.8,70.1,Belo Horizonte
+425,Aluno_425,14,2º Ano,6.9,6.2,5.0,95.3,Salvador
+426,Aluno_426,17,2º Ano,3.9,7.3,6.3,82.5,Rio de Janeiro
+427,Aluno_427,15,1º Ano,5.7,6.3,5.7,67.4,Belo Horizonte
+428,Aluno_428,19,2º Ano,6.9,4.9,6.4,69.0,Salvador
+429,Aluno_429,19,2º Ano,1.3,6.6,6.7,79.8,Belo Horizonte
+430,Aluno_430,16,3º Ano,6.7,6.2,7.1,98.5,Rio de Janeiro
+431,Aluno_431,17,2º Ano,6.9,6.4,1.0,90.8,Salvador
+432,Aluno_432,18,2º Ano,8.7,1.7,6.9,79.5,São Paulo
+433,Aluno_433,14,2º Ano,8.4,7.5,5.5,73.5,Rio de Janeiro
+434,Aluno_434,18,3º Ano,6.2,6.0,4.9,82.0,Curitiba
+435,Aluno_435,17,1º Ano,9.0,4.5,7.6,89.9,Curitiba
+436,Aluno_436,17,3º Ano,10.0,7.9,8.8,91.4,Rio de Janeiro
+437,Aluno_437,17,3º Ano,6.1,7.5,7.4,73.0,Curitiba
+438,Aluno_438,18,1º Ano,6.8,6.0,5.3,88.8,Rio de Janeiro
+439,Aluno_439,17,3º Ano,2.5,4.8,4.3,86.3,São Paulo
+440,Aluno_440,19,1º Ano,3.1,6.8,0.8,98.4,Rio de Janeiro
+441,Aluno_441,18,3º Ano,4.3,6.7,6.5,97.2,Salvador
+442,Aluno_442,17,1º Ano,5.1,7.9,7.2,91.6,Salvador
+443,Aluno_443,19,2º Ano,3.8,5.8,6.0,88.9,Belo Horizonte
+444,Aluno_444,16,3º Ano,5.9,8.3,7.9,71.0,Curitiba
+445,Aluno_445,17,3º Ano,5.2,5.7,3.8,93.8,Curitiba
+446,Aluno_446,18,3º Ano,8.1,4.5,5.9,77.1,Rio de Janeiro
+447,Aluno_447,15,3º Ano,5.1,4.8,5.7,70.9,Curitiba
+448,Aluno_448,17,2º Ano,1.4,6.4,6.0,75.4,Salvador
+449,Aluno_449,15,3º Ano,6.3,6.4,8.3,93.4,São Paulo
+450,Aluno_450,19,2º Ano,6.0,7.0,6.0,65.9,Rio de Janeiro
+451,Aluno_451,16,2º Ano,4.3,6.4,5.7,78.2,Curitiba
+452,Aluno_452,14,2º Ano,6.2,8.0,4.5,79.7,Salvador
+453,Aluno_453,16,2º Ano,3.8,6.1,8.6,61.5,Belo Horizonte
+454,Aluno_454,17,1º Ano,6.7,3.5,3.6,67.8,Curitiba
+455,Aluno_455,15,1º Ano,10.0,6.3,5.2,93.1,São Paulo
+456,Aluno_456,15,3º Ano,2.4,3.5,9.2,93.2,São Paulo
+457,Aluno_457,18,1º Ano,5.0,6.9,7.0,71.7,Curitiba
+458,Aluno_458,15,1º Ano,4.6,8.1,6.2,95.0,Curitiba
+459,Aluno_459,18,3º Ano,5.1,5.0,6.2,90.9,Salvador
+460,Aluno_460,19,3º Ano,8.0,8.6,4.5,76.7,Curitiba
+461,Aluno_461,14,3º Ano,7.1,7.8,6.1,89.9,Belo Horizonte
+462,Aluno_462,17,1º Ano,7.7,8.3,5.6,98.5,Salvador
+463,Aluno_463,18,1º Ano,6.1,6.8,6.5,78.4,Rio de Janeiro
+464,Aluno_464,14,3º Ano,3.4,5.0,3.5,69.5,Belo Horizonte
+465,Aluno_465,15,2º Ano,3.8,7.7,6.9,97.7,Salvador
+466,Aluno_466,15,3º Ano,7.5,5.6,8.0,84.1,Salvador
+467,Aluno_467,14,2º Ano,6.3,6.7,5.8,64.2,São Paulo
+468,Aluno_468,15,2º Ano,8.5,6.2,7.4,82.9,Salvador
+469,Aluno_469,19,3º Ano,6.6,8.2,6.8,80.0,Belo Horizonte
+470,Aluno_470,19,3º Ano,3.6,7.6,5.1,94.2,Curitiba
+471,Aluno_471,14,3º Ano,5.0,6.4,4.3,81.2,Belo Horizonte
+472,Aluno_472,18,1º Ano,7.1,3.6,4.5,70.2,Rio de Janeiro
+473,Aluno_473,18,2º Ano,7.4,5.5,6.7,87.0,Salvador
+474,Aluno_474,14,1º Ano,7.7,7.6,6.1,81.7,Salvador
+475,Aluno_475,18,1º Ano,3.9,6.9,8.5,69.3,Salvador
+476,Aluno_476,18,3º Ano,3.6,4.2,7.6,82.9,Salvador
+477,Aluno_477,19,1º Ano,5.6,3.8,7.6,92.9,São Paulo
+478,Aluno_478,18,3º Ano,8.9,6.8,6.7,61.1,São Paulo
+479,Aluno_479,16,2º Ano,4.6,4.9,4.5,85.2,Curitiba
+480,Aluno_480,17,3º Ano,6.9,5.1,6.8,74.0,Salvador
+481,Aluno_481,15,1º Ano,6.9,7.5,6.3,71.7,Rio de Janeiro
+482,Aluno_482,16,1º Ano,7.5,8.3,4.2,75.7,Curitiba
+483,Aluno_483,18,3º Ano,9.3,5.4,8.4,73.7,Salvador
+484,Aluno_484,19,3º Ano,9.1,6.4,8.2,93.3,São Paulo
+485,Aluno_485,14,1º Ano,4.8,6.4,4.1,71.0,Rio de Janeiro
+486,Aluno_486,18,2º Ano,1.8,6.3,5.1,89.3,Curitiba
+487,Aluno_487,19,2º Ano,4.6,6.6,5.2,63.8,Rio de Janeiro
+488,Aluno_488,17,3º Ano,6.2,7.6,7.3,98.1,Salvador
+489,Aluno_489,18,2º Ano,5.3,5.5,7.1,84.9,Belo Horizonte
+490,Aluno_490,14,1º Ano,9.9,4.2,6.3,88.3,Rio de Janeiro
+491,Aluno_491,19,3º Ano,6.0,9.0,6.7,71.9,Rio de Janeiro
+492,Aluno_492,19,1º Ano,7.3,8.1,3.9,76.5,São Paulo
+493,Aluno_493,19,1º Ano,6.4,4.8,6.9,69.0,Salvador
+494,Aluno_494,17,2º Ano,5.3,6.7,6.0,97.3,Rio de Janeiro
+495,Aluno_495,18,3º Ano,2.2,8.0,5.0,79.5,Salvador
+496,Aluno_496,17,3º Ano,5.8,7.6,3.4,85.2,São Paulo
+497,Aluno_497,15,2º Ano,10.0,7.2,6.2,89.4,Salvador
+498,Aluno_498,15,1º Ano,3.5,6.2,6.8,74.8,São Paulo
+499,Aluno_499,18,1º Ano,2.4,9.1,3.1,88.8,São Paulo
+500,Aluno_500,17,1º Ano,9.9,6.8,6.2,87.0,Curitiba
+501,Aluno_501,14,1º Ano,7.5,5.7,6.4,88.2,Salvador
+502,Aluno_502,19,3º Ano,6.4,7.8,5.2,79.6,Belo Horizonte
+503,Aluno_503,19,3º Ano,8.7,6.6,6.9,75.3,Curitiba
+504,Aluno_504,18,2º Ano,4.3,7.0,6.0,68.9,São Paulo
+505,Aluno_505,15,2º Ano,5.8,6.8,6.7,93.0,Belo Horizonte
+506,Aluno_506,15,3º Ano,7.9,7.2,7.2,84.3,Rio de Janeiro
+507,Aluno_507,19,3º Ano,10.0,5.0,7.2,77.8,Rio de Janeiro
+508,Aluno_508,18,1º Ano,3.7,4.3,8.0,97.8,Curitiba
+509,Aluno_509,17,1º Ano,8.6,8.7,6.8,61.9,Belo Horizonte
+510,Aluno_510,15,2º Ano,6.8,6.9,5.3,94.0,Salvador
+511,Aluno_511,17,3º Ano,6.3,7.7,5.0,99.9,Belo Horizonte
+512,Aluno_512,15,2º Ano,6.0,3.9,4.3,95.5,Curitiba
+513,Aluno_513,15,3º Ano,3.2,8.1,6.5,92.4,Salvador
+514,Aluno_514,16,1º Ano,7.9,5.7,8.6,75.0,Salvador
+515,Aluno_515,15,2º Ano,4.4,5.3,5.6,69.3,Rio de Janeiro
+516,Aluno_516,14,2º Ano,3.8,6.4,7.0,89.4,Belo Horizonte
+517,Aluno_517,18,3º Ano,7.8,5.0,4.8,72.2,Salvador
+518,Aluno_518,18,1º Ano,7.6,6.5,6.6,67.0,Curitiba
+519,Aluno_519,17,2º Ano,6.2,6.3,8.5,91.5,Rio de Janeiro
+520,Aluno_520,15,1º Ano,8.2,8.1,7.4,72.5,Salvador
+521,Aluno_521,14,2º Ano,8.9,8.8,3.4,96.6,Belo Horizonte
+522,Aluno_522,17,1º Ano,8.6,8.7,7.2,93.6,Rio de Janeiro
+523,Aluno_523,16,3º Ano,4.9,3.1,7.3,93.9,Belo Horizonte
+524,Aluno_524,17,2º Ano,8.0,5.1,6.5,90.9,Belo Horizonte
+525,Aluno_525,17,2º Ano,6.4,3.1,7.4,95.2,Belo Horizonte
+526,Aluno_526,15,1º Ano,9.5,4.7,4.7,92.2,Rio de Janeiro
+527,Aluno_527,16,1º Ano,5.8,5.5,6.3,84.1,Salvador
+528,Aluno_528,17,2º Ano,5.3,7.1,8.2,71.8,São Paulo
+529,Aluno_529,14,3º Ano,4.8,5.7,8.0,95.5,Salvador
+530,Aluno_530,14,1º Ano,6.4,5.8,7.2,93.6,Rio de Janeiro
+531,Aluno_531,18,1º Ano,6.9,6.8,4.6,78.9,São Paulo
+532,Aluno_532,16,1º Ano,7.0,3.9,4.3,61.6,São Paulo
+533,Aluno_533,16,2º Ano,6.7,5.2,6.4,85.5,São Paulo
+534,Aluno_534,18,2º Ano,7.3,5.7,6.5,62.0,Curitiba
+535,Aluno_535,17,2º Ano,5.6,6.2,6.0,97.1,Rio de Janeiro
+536,Aluno_536,16,2º Ano,4.3,6.6,4.8,98.5,Curitiba
+537,Aluno_537,14,3º Ano,4.1,8.8,7.0,67.6,São Paulo
+538,Aluno_538,14,3º Ano,8.0,7.9,6.4,87.1,Curitiba
+539,Aluno_539,15,2º Ano,6.9,5.3,6.7,63.7,Curitiba
+540,Aluno_540,16,3º Ano,2.3,6.1,7.3,89.2,Rio de Janeiro
+541,Aluno_541,17,1º Ano,8.2,6.0,5.7,73.9,Belo Horizonte
+542,Aluno_542,18,1º Ano,9.8,5.7,5.3,87.2,Curitiba
+543,Aluno_543,18,1º Ano,4.6,6.9,8.2,74.9,Curitiba
+544,Aluno_544,17,2º Ano,6.7,3.7,4.8,65.8,São Paulo
+545,Aluno_545,19,1º Ano,5.1,7.8,5.4,76.2,São Paulo
+546,Aluno_546,15,3º Ano,7.3,9.0,8.4,64.5,São Paulo
+547,Aluno_547,18,2º Ano,3.7,6.1,5.2,83.1,Salvador
+548,Aluno_548,16,3º Ano,5.9,6.1,6.0,61.6,Curitiba
+549,Aluno_549,15,1º Ano,8.0,6.7,5.5,81.1,São Paulo
+550,Aluno_550,16,1º Ano,8.5,8.0,3.0,95.5,Rio de Janeiro
+551,Aluno_551,14,1º Ano,6.9,6.0,6.0,93.5,Salvador
+552,Aluno_552,15,2º Ano,5.3,7.9,4.4,95.3,Belo Horizonte
+553,Aluno_553,18,3º Ano,2.8,7.2,6.7,96.9,Curitiba
+554,Aluno_554,15,2º Ano,4.5,10.0,8.2,64.2,Curitiba
+555,Aluno_555,15,2º Ano,5.1,6.0,2.2,65.1,Rio de Janeiro
+556,Aluno_556,15,1º Ano,4.6,3.5,5.5,82.3,Belo Horizonte
+557,Aluno_557,19,2º Ano,6.1,4.4,7.0,95.8,Belo Horizonte
+558,Aluno_558,15,2º Ano,5.3,6.5,2.3,99.0,Salvador
+559,Aluno_559,16,1º Ano,6.3,8.0,8.6,61.9,Curitiba
+560,Aluno_560,14,2º Ano,8.4,5.5,6.9,74.2,São Paulo
+561,Aluno_561,17,1º Ano,5.2,6.2,8.1,68.5,Rio de Janeiro
+562,Aluno_562,15,1º Ano,3.2,7.5,5.2,90.2,Rio de Janeiro
+563,Aluno_563,18,1º Ano,4.6,5.1,5.4,85.6,Rio de Janeiro
+564,Aluno_564,15,1º Ano,7.2,5.6,5.9,64.8,Rio de Janeiro
+565,Aluno_565,18,2º Ano,7.4,4.7,10.0,79.3,São Paulo
+566,Aluno_566,16,1º Ano,6.8,8.3,8.6,87.4,São Paulo
+567,Aluno_567,18,1º Ano,8.6,8.8,6.4,91.2,Salvador
+568,Aluno_568,17,2º Ano,5.6,4.1,6.7,60.8,Curitiba
+569,Aluno_569,14,2º Ano,10.0,6.3,7.3,95.6,São Paulo
+570,Aluno_570,18,3º Ano,7.6,8.6,10.0,82.8,Salvador
+571,Aluno_571,18,2º Ano,1.0,7.1,6.9,92.5,Belo Horizonte
+572,Aluno_572,14,2º Ano,9.6,5.8,6.3,92.3,Curitiba
+573,Aluno_573,17,3º Ano,4.5,4.2,5.6,67.6,São Paulo
+574,Aluno_574,15,2º Ano,3.9,8.2,6.6,64.4,Belo Horizonte
+575,Aluno_575,18,2º Ano,7.0,7.0,5.1,88.9,Salvador
+576,Aluno_576,14,2º Ano,2.5,4.3,7.1,66.3,São Paulo
+577,Aluno_577,16,2º Ano,4.6,8.3,3.6,94.0,São Paulo
+578,Aluno_578,14,3º Ano,9.1,4.1,5.7,89.0,Belo Horizonte
+579,Aluno_579,16,2º Ano,7.1,6.2,7.5,93.7,São Paulo
+580,Aluno_580,17,2º Ano,7.6,6.1,6.9,72.0,Rio de Janeiro
+581,Aluno_581,15,3º Ano,4.7,8.9,5.4,72.7,São Paulo
+582,Aluno_582,14,1º Ano,2.9,6.1,5.8,86.8,Curitiba
+583,Aluno_583,19,3º Ano,7.4,6.1,8.1,61.3,Belo Horizonte
+584,Aluno_584,18,1º Ano,7.9,4.5,4.0,89.1,Curitiba
+585,Aluno_585,17,3º Ano,7.8,5.5,4.0,93.4,Salvador
+586,Aluno_586,14,3º Ano,6.4,5.3,4.5,76.6,Curitiba
+587,Aluno_587,18,2º Ano,4.1,5.4,6.2,90.6,Rio de Janeiro
+588,Aluno_588,14,1º Ano,10.0,6.5,3.8,67.0,Rio de Janeiro
+589,Aluno_589,16,2º Ano,7.0,2.8,7.9,72.9,Curitiba
+590,Aluno_590,14,1º Ano,5.7,4.2,4.5,99.0,Salvador
+591,Aluno_591,19,3º Ano,5.7,6.3,6.6,99.5,São Paulo
+592,Aluno_592,14,3º Ano,6.3,6.7,5.2,80.5,Rio de Janeiro
+593,Aluno_593,14,1º Ano,8.1,6.1,6.1,97.4,Curitiba
+594,Aluno_594,19,2º Ano,6.4,6.4,3.3,80.9,Curitiba
+595,Aluno_595,17,2º Ano,7.7,5.9,8.0,71.7,Curitiba
+596,Aluno_596,14,2º Ano,6.3,6.5,4.5,70.7,São Paulo
+597,Aluno_597,19,2º Ano,5.8,7.2,4.3,97.2,Belo Horizonte
+598,Aluno_598,18,3º Ano,7.3,7.1,10.0,66.9,Salvador
+599,Aluno_599,16,3º Ano,7.2,5.5,7.2,83.2,Belo Horizonte
+600,Aluno_600,16,3º Ano,5.7,7.9,7.9,82.2,Salvador
+601,Aluno_601,14,3º Ano,4.5,6.7,7.0,89.6,Salvador
+602,Aluno_602,17,3º Ano,6.7,8.3,5.4,80.0,Curitiba
+603,Aluno_603,17,2º Ano,6.2,8.6,3.8,70.9,Rio de Janeiro
+604,Aluno_604,18,2º Ano,4.9,4.3,5.7,66.8,Curitiba
+605,Aluno_605,14,2º Ano,4.3,5.2,4.4,84.8,São Paulo
+606,Aluno_606,16,2º Ano,6.8,7.7,4.5,88.8,Salvador
+607,Aluno_607,17,3º Ano,7.1,4.0,3.4,82.8,Rio de Janeiro
+608,Aluno_608,14,3º Ano,5.3,8.6,6.4,89.5,Salvador
+609,Aluno_609,17,3º Ano,4.8,6.0,9.0,65.7,Salvador
+610,Aluno_610,19,1º Ano,4.3,7.4,7.2,95.3,Curitiba
+611,Aluno_611,17,2º Ano,6.8,6.3,6.0,83.3,Rio de Janeiro
+612,Aluno_612,16,2º Ano,4.4,4.4,6.1,65.1,Rio de Janeiro
+613,Aluno_613,15,3º Ano,10.0,8.1,0.7,78.5,Salvador
+614,Aluno_614,18,2º Ano,5.2,10.0,5.4,93.8,Rio de Janeiro
+615,Aluno_615,18,2º Ano,1.1,5.7,3.6,95.9,Rio de Janeiro
+616,Aluno_616,16,3º Ano,5.9,6.0,6.4,70.6,Curitiba
+617,Aluno_617,17,1º Ano,5.9,2.5,5.7,88.5,Belo Horizonte
+618,Aluno_618,14,1º Ano,8.2,8.5,4.6,64.0,São Paulo
+619,Aluno_619,17,1º Ano,6.6,7.9,6.4,61.3,Belo Horizonte
+620,Aluno_620,16,3º Ano,4.3,3.9,6.4,82.4,Rio de Janeiro
+621,Aluno_621,18,2º Ano,5.4,3.4,8.9,87.8,Salvador
+622,Aluno_622,17,3º Ano,6.7,3.6,7.4,91.8,São Paulo
+623,Aluno_623,18,3º Ano,1.7,7.5,6.6,73.6,São Paulo
+624,Aluno_624,14,2º Ano,8.7,7.6,4.5,60.3,Salvador
+625,Aluno_625,18,1º Ano,4.3,5.1,4.3,79.2,São Paulo
+626,Aluno_626,18,1º Ano,8.8,7.2,7.3,60.6,Salvador
+627,Aluno_627,15,3º Ano,6.8,6.7,5.8,63.7,São Paulo
+628,Aluno_628,15,1º Ano,7.3,5.9,6.6,73.1,Belo Horizonte
+629,Aluno_629,19,3º Ano,8.3,8.0,8.0,77.5,São Paulo
+630,Aluno_630,15,3º Ano,7.1,4.7,3.5,71.2,Curitiba
+631,Aluno_631,18,2º Ano,7.3,8.2,8.7,83.3,Salvador
+632,Aluno_632,16,2º Ano,5.7,5.4,7.9,62.2,São Paulo
+633,Aluno_633,18,2º Ano,6.7,9.2,2.5,65.8,Salvador
+634,Aluno_634,16,3º Ano,4.8,5.0,10.0,87.8,Curitiba
+635,Aluno_635,16,2º Ano,5.3,6.0,6.8,65.7,São Paulo
+636,Aluno_636,15,1º Ano,9.9,6.6,5.3,85.6,São Paulo
+637,Aluno_637,17,1º Ano,4.4,6.6,7.1,62.2,Curitiba
+638,Aluno_638,14,3º Ano,6.3,7.2,4.4,76.3,Curitiba
+639,Aluno_639,15,3º Ano,6.2,4.6,7.2,67.1,Curitiba
+640,Aluno_640,15,2º Ano,5.4,6.4,4.8,64.4,Salvador
+641,Aluno_641,17,3º Ano,7.0,6.7,9.8,82.7,Curitiba
+642,Aluno_642,14,3º Ano,7.2,5.7,6.3,97.1,Salvador
+643,Aluno_643,18,1º Ano,4.1,7.1,7.4,62.2,Belo Horizonte
+644,Aluno_644,19,1º Ano,6.2,4.5,4.8,76.9,São Paulo
+645,Aluno_645,19,2º Ano,3.8,6.0,7.7,88.3,São Paulo
+646,Aluno_646,18,3º Ano,7.6,5.4,6.2,78.5,Rio de Janeiro
+647,Aluno_647,15,3º Ano,6.4,6.0,3.7,92.3,Belo Horizonte
+648,Aluno_648,14,1º Ano,6.2,8.7,5.8,67.2,Curitiba
+649,Aluno_649,15,3º Ano,7.3,8.7,9.7,98.4,Curitiba
+650,Aluno_650,16,1º Ano,5.4,8.4,7.7,75.4,Belo Horizonte
+651,Aluno_651,15,2º Ano,7.8,5.8,5.5,73.7,Curitiba
+652,Aluno_652,15,1º Ano,4.1,7.9,2.8,95.0,Rio de Janeiro
+653,Aluno_653,18,3º Ano,8.8,6.7,4.7,82.6,Salvador
+654,Aluno_654,18,2º Ano,4.9,6.6,3.7,80.7,São Paulo
+655,Aluno_655,18,1º Ano,2.6,6.4,2.9,89.1,Belo Horizonte
+656,Aluno_656,19,1º Ano,5.3,9.1,7.6,83.2,São Paulo
+657,Aluno_657,16,2º Ano,5.1,8.5,6.3,66.5,Salvador
+658,Aluno_658,18,2º Ano,5.3,7.6,9.4,87.0,Belo Horizonte
+659,Aluno_659,14,1º Ano,6.5,6.2,4.4,65.3,Salvador
+660,Aluno_660,19,3º Ano,8.2,6.6,6.2,92.2,Curitiba
+661,Aluno_661,17,1º Ano,5.6,7.3,3.7,99.6,Curitiba
+662,Aluno_662,14,2º Ano,4.6,5.7,5.1,75.1,Curitiba
+663,Aluno_663,14,1º Ano,3.7,7.9,5.8,77.8,Salvador
+664,Aluno_664,18,2º Ano,5.1,5.1,5.5,61.9,Salvador
+665,Aluno_665,17,2º Ano,2.2,7.1,6.3,60.5,Salvador
+666,Aluno_666,17,3º Ano,4.5,3.1,7.9,96.9,São Paulo
+667,Aluno_667,19,2º Ano,8.5,5.7,7.8,65.1,Salvador
+668,Aluno_668,17,2º Ano,4.4,9.6,4.8,77.8,Curitiba
+669,Aluno_669,16,3º Ano,7.3,8.1,6.1,92.6,Rio de Janeiro
+670,Aluno_670,18,2º Ano,3.5,8.8,7.6,95.6,Salvador
+671,Aluno_671,17,3º Ano,9.5,5.5,8.1,80.8,Rio de Janeiro
+672,Aluno_672,19,3º Ano,9.7,6.7,5.0,82.6,Curitiba
+673,Aluno_673,16,2º Ano,7.2,8.4,7.5,86.8,Salvador
+674,Aluno_674,15,2º Ano,10.0,7.4,6.8,98.5,São Paulo
+675,Aluno_675,15,1º Ano,6.7,7.3,4.3,84.1,São Paulo
+676,Aluno_676,16,3º Ano,7.5,8.9,7.6,82.4,Rio de Janeiro
+677,Aluno_677,19,1º Ano,8.5,4.9,6.5,60.6,São Paulo
+678,Aluno_678,16,2º Ano,6.4,6.2,3.1,63.2,São Paulo
+679,Aluno_679,18,1º Ano,2.9,3.9,5.7,83.1,São Paulo
+680,Aluno_680,18,3º Ano,7.6,4.9,6.3,97.4,Curitiba
+681,Aluno_681,15,1º Ano,5.1,8.1,5.1,94.7,São Paulo
+682,Aluno_682,17,3º Ano,5.2,5.1,8.4,99.3,Belo Horizonte
+683,Aluno_683,19,2º Ano,6.6,7.6,8.5,81.1,Salvador
+684,Aluno_684,15,2º Ano,7.1,9.0,5.5,91.5,São Paulo
+685,Aluno_685,17,3º Ano,6.3,6.2,5.3,93.6,São Paulo
+686,Aluno_686,17,2º Ano,7.3,7.3,6.0,85.9,São Paulo
+687,Aluno_687,18,2º Ano,4.6,7.6,5.8,73.5,Belo Horizonte
+688,Aluno_688,14,2º Ano,5.9,4.7,5.1,78.8,São Paulo
+689,Aluno_689,14,2º Ano,7.7,5.6,0.0,94.3,São Paulo
+690,Aluno_690,16,3º Ano,9.5,5.0,9.4,71.9,Salvador
+691,Aluno_691,18,1º Ano,10.0,5.7,6.2,96.9,Belo Horizonte
+692,Aluno_692,17,1º Ano,6.9,7.6,5.9,69.2,Belo Horizonte
+693,Aluno_693,19,2º Ano,7.7,5.6,6.8,90.0,São Paulo
+694,Aluno_694,14,1º Ano,10.0,6.4,6.1,85.2,Belo Horizonte
+695,Aluno_695,17,1º Ano,4.7,4.9,5.4,90.0,Rio de Janeiro
+696,Aluno_696,14,2º Ano,7.3,8.3,4.4,77.5,Belo Horizonte
+697,Aluno_697,14,2º Ano,7.5,5.7,2.9,97.3,Belo Horizonte
+698,Aluno_698,14,1º Ano,8.9,8.8,3.8,85.3,Belo Horizonte
+699,Aluno_699,19,3º Ano,3.7,6.6,4.2,71.5,Curitiba
+700,Aluno_700,18,2º Ano,4.1,4.4,7.4,85.5,Curitiba
+701,Aluno_701,19,3º Ano,6.0,6.2,7.5,71.5,Curitiba
+702,Aluno_702,15,1º Ano,6.8,4.9,4.6,71.7,Belo Horizonte
+703,Aluno_703,17,2º Ano,8.2,7.4,1.4,76.0,Rio de Janeiro
+704,Aluno_704,18,3º Ano,7.0,6.1,6.2,94.1,Belo Horizonte
+705,Aluno_705,18,2º Ano,5.7,6.7,5.4,80.0,São Paulo
+706,Aluno_706,18,1º Ano,6.8,5.9,5.4,87.2,Rio de Janeiro
+707,Aluno_707,18,3º Ano,6.6,5.7,7.9,75.7,Curitiba
+708,Aluno_708,19,1º Ano,9.5,5.0,6.4,70.5,Salvador
+709,Aluno_709,18,1º Ano,6.3,7.8,4.4,98.2,Rio de Janeiro
+710,Aluno_710,16,2º Ano,5.2,6.2,4.0,84.1,Curitiba
+711,Aluno_711,17,3º Ano,6.9,6.0,5.7,97.4,Rio de Janeiro
+712,Aluno_712,18,1º Ano,6.4,6.2,4.6,68.1,Rio de Janeiro
+713,Aluno_713,17,1º Ano,2.9,5.5,6.1,65.9,Belo Horizonte
+714,Aluno_714,16,3º Ano,6.0,6.0,8.0,94.2,São Paulo
+715,Aluno_715,16,1º Ano,5.8,6.8,3.7,87.2,Salvador
+716,Aluno_716,17,1º Ano,4.9,4.9,6.4,67.5,Curitiba
+717,Aluno_717,14,3º Ano,8.1,5.2,7.8,70.8,Rio de Janeiro
+718,Aluno_718,15,3º Ano,4.4,8.6,6.0,92.0,Salvador
+719,Aluno_719,14,3º Ano,6.9,6.0,7.5,78.2,Rio de Janeiro
+720,Aluno_720,14,3º Ano,5.7,5.7,5.7,86.8,São Paulo
+721,Aluno_721,19,2º Ano,6.2,4.5,6.5,72.7,Salvador
+722,Aluno_722,14,3º Ano,6.8,7.8,7.0,75.2,Curitiba
+723,Aluno_723,18,2º Ano,3.4,4.9,5.2,99.6,Rio de Janeiro
+724,Aluno_724,19,2º Ano,6.4,6.5,9.8,69.9,São Paulo
+725,Aluno_725,19,2º Ano,10.0,3.9,7.2,80.3,Salvador
+726,Aluno_726,16,1º Ano,2.9,7.7,8.5,93.8,Rio de Janeiro
+727,Aluno_727,14,2º Ano,5.9,8.3,8.1,69.6,Rio de Janeiro
+728,Aluno_728,16,2º Ano,8.2,7.2,6.8,76.6,Curitiba
+729,Aluno_729,17,1º Ano,6.6,4.2,8.7,84.6,São Paulo
+730,Aluno_730,15,1º Ano,7.4,7.8,6.5,79.2,Belo Horizonte
+731,Aluno_731,19,1º Ano,1.2,5.3,4.9,78.4,Rio de Janeiro
+732,Aluno_732,17,3º Ano,7.2,4.7,6.2,74.5,Salvador
+733,Aluno_733,17,1º Ano,4.5,5.9,4.4,83.5,Curitiba
+734,Aluno_734,18,1º Ano,6.6,5.9,2.4,85.0,Curitiba
+735,Aluno_735,15,2º Ano,5.9,5.7,4.7,86.1,Rio de Janeiro
+736,Aluno_736,17,1º Ano,10.0,8.4,6.3,62.8,Rio de Janeiro
+737,Aluno_737,17,3º Ano,7.1,9.5,8.1,85.2,Rio de Janeiro
+738,Aluno_738,15,1º Ano,5.8,4.4,4.7,98.1,Belo Horizonte
+739,Aluno_739,15,3º Ano,3.0,5.5,8.0,81.6,Rio de Janeiro
+740,Aluno_740,17,1º Ano,6.2,6.7,4.0,88.6,São Paulo
+741,Aluno_741,15,1º Ano,7.6,5.9,4.5,82.3,Salvador
+742,Aluno_742,17,1º Ano,5.8,7.1,8.8,94.2,Rio de Janeiro
+743,Aluno_743,17,1º Ano,5.0,7.9,6.3,97.2,Belo Horizonte
+744,Aluno_744,18,3º Ano,4.9,7.6,5.9,67.4,Salvador
+745,Aluno_745,14,3º Ano,7.1,7.4,6.6,77.5,Curitiba
+746,Aluno_746,17,2º Ano,7.5,9.0,4.0,75.7,Rio de Janeiro
+747,Aluno_747,16,3º Ano,8.7,4.1,5.6,76.2,Salvador
+748,Aluno_748,19,1º Ano,4.0,8.7,6.2,65.0,Curitiba
+749,Aluno_749,14,2º Ano,7.1,5.9,8.4,92.5,Belo Horizonte
+750,Aluno_750,14,2º Ano,5.8,7.7,3.2,61.4,São Paulo
+751,Aluno_751,14,2º Ano,5.8,5.0,9.4,81.1,Rio de Janeiro
+752,Aluno_752,18,1º Ano,6.8,5.1,6.0,86.5,São Paulo
+753,Aluno_753,17,3º Ano,6.8,7.5,4.2,68.3,Belo Horizonte
+754,Aluno_754,18,1º Ano,7.1,3.6,3.9,96.2,Salvador
+755,Aluno_755,17,2º Ano,3.9,8.0,6.7,93.5,Salvador
+756,Aluno_756,18,1º Ano,4.5,8.4,3.8,78.8,Belo Horizonte
+757,Aluno_757,18,1º Ano,9.0,6.8,5.2,76.4,Belo Horizonte
+758,Aluno_758,19,3º Ano,5.6,6.7,5.8,69.5,Rio de Janeiro
+759,Aluno_759,16,3º Ano,6.6,5.2,8.3,89.2,Curitiba
+760,Aluno_760,18,2º Ano,8.1,7.5,8.0,65.3,São Paulo
+761,Aluno_761,19,1º Ano,6.9,7.0,5.0,87.2,São Paulo
+762,Aluno_762,15,1º Ano,7.1,5.1,5.8,93.7,Salvador
+763,Aluno_763,16,3º Ano,7.8,5.9,3.3,69.1,Salvador
+764,Aluno_764,18,1º Ano,1.8,6.3,2.5,94.7,Rio de Janeiro
+765,Aluno_765,14,1º Ano,5.0,5.9,4.0,61.3,Belo Horizonte
+766,Aluno_766,15,1º Ano,6.9,4.5,8.2,96.5,São Paulo
+767,Aluno_767,15,3º Ano,8.8,7.5,7.6,64.7,Rio de Janeiro
+768,Aluno_768,19,2º Ano,6.1,6.1,6.9,85.8,Salvador
+769,Aluno_769,15,2º Ano,4.3,6.5,3.6,70.0,Salvador
+770,Aluno_770,16,1º Ano,4.4,5.6,4.9,93.5,São Paulo
+771,Aluno_771,18,2º Ano,7.8,7.2,4.7,80.5,Salvador
+772,Aluno_772,18,3º Ano,5.6,6.8,5.9,65.4,Salvador
+773,Aluno_773,14,3º Ano,6.0,8.3,5.8,82.8,Curitiba
+774,Aluno_774,19,2º Ano,7.2,7.2,4.4,76.3,Belo Horizonte
+775,Aluno_775,14,2º Ano,0.2,6.2,6.8,86.5,Salvador
+776,Aluno_776,15,1º Ano,10.0,5.4,6.6,95.3,Curitiba
+777,Aluno_777,14,2º Ano,4.5,7.8,4.9,76.4,Rio de Janeiro
+778,Aluno_778,16,1º Ano,6.5,6.1,6.7,71.6,Salvador
+779,Aluno_779,18,1º Ano,2.6,6.2,8.2,60.6,Rio de Janeiro
+780,Aluno_780,15,3º Ano,5.2,6.2,8.8,83.0,Salvador
+781,Aluno_781,14,3º Ano,8.5,5.9,7.1,76.1,São Paulo
+782,Aluno_782,19,3º Ano,2.2,6.3,7.0,75.0,Curitiba
+783,Aluno_783,16,3º Ano,8.3,9.4,5.8,67.3,Curitiba
+784,Aluno_784,16,2º Ano,5.5,4.9,8.1,77.2,São Paulo
+785,Aluno_785,14,3º Ano,7.0,5.3,4.3,99.4,Belo Horizonte
+786,Aluno_786,18,2º Ano,7.3,8.6,7.8,71.9,Curitiba
+787,Aluno_787,14,3º Ano,6.9,5.9,5.7,84.0,Rio de Janeiro
+788,Aluno_788,15,2º Ano,4.3,5.8,8.9,91.1,Curitiba
+789,Aluno_789,14,1º Ano,5.3,8.1,7.3,90.0,Belo Horizonte
+790,Aluno_790,16,2º Ano,3.1,4.4,6.1,73.2,Rio de Janeiro
+791,Aluno_791,14,2º Ano,7.0,7.7,5.8,84.4,Rio de Janeiro
+792,Aluno_792,18,3º Ano,9.4,6.6,7.1,94.9,São Paulo
+793,Aluno_793,19,2º Ano,2.4,7.2,7.1,60.6,Salvador
+794,Aluno_794,17,1º Ano,4.5,7.2,5.5,77.4,São Paulo
+795,Aluno_795,14,1º Ano,5.6,5.6,6.4,69.0,Salvador
+796,Aluno_796,18,3º Ano,6.3,8.1,7.8,75.5,São Paulo
+797,Aluno_797,18,1º Ano,7.8,5.7,3.7,76.6,Salvador
+798,Aluno_798,19,2º Ano,5.7,7.1,7.5,89.9,Curitiba
+799,Aluno_799,16,1º Ano,5.4,8.4,7.1,63.8,Rio de Janeiro
+800,Aluno_800,18,3º Ano,8.2,8.6,8.3,80.5,Salvador
+801,Aluno_801,18,2º Ano,7.3,6.1,4.9,82.6,Curitiba
+802,Aluno_802,18,3º Ano,7.1,7.2,6.2,79.8,Belo Horizonte
+803,Aluno_803,18,2º Ano,6.2,6.0,6.6,89.3,São Paulo
+804,Aluno_804,15,1º Ano,8.0,10.0,7.5,75.4,Belo Horizonte
+805,Aluno_805,15,3º Ano,4.7,7.7,7.0,97.8,Curitiba
+806,Aluno_806,16,3º Ano,4.4,6.6,4.0,79.3,Belo Horizonte
+807,Aluno_807,14,2º Ano,7.5,7.0,6.7,82.8,Belo Horizonte
+808,Aluno_808,18,3º Ano,2.7,7.1,9.8,93.0,Curitiba
+809,Aluno_809,19,2º Ano,6.2,7.2,7.3,71.0,Rio de Janeiro
+810,Aluno_810,14,2º Ano,5.4,6.1,9.1,63.0,Salvador
+811,Aluno_811,19,2º Ano,3.2,5.9,8.1,88.3,São Paulo
+812,Aluno_812,14,2º Ano,4.1,6.3,8.7,79.3,Salvador
+813,Aluno_813,16,1º Ano,5.8,4.8,6.8,95.9,São Paulo
+814,Aluno_814,18,2º Ano,8.1,7.6,7.1,99.3,Salvador
+815,Aluno_815,18,3º Ano,4.7,5.3,6.7,76.0,Belo Horizonte
+816,Aluno_816,17,1º Ano,8.4,4.9,6.2,76.6,Rio de Janeiro
+817,Aluno_817,19,3º Ano,6.1,6.5,7.5,76.3,Belo Horizonte
+818,Aluno_818,14,1º Ano,8.6,6.3,5.3,73.0,Rio de Janeiro
+819,Aluno_819,14,2º Ano,4.8,6.9,9.6,91.3,Curitiba
+820,Aluno_820,15,1º Ano,5.9,5.6,4.5,90.4,São Paulo
+821,Aluno_821,17,1º Ano,6.7,5.9,7.7,79.1,São Paulo
+822,Aluno_822,15,3º Ano,5.6,7.5,8.7,61.8,Curitiba
+823,Aluno_823,15,3º Ano,7.9,7.4,5.9,72.4,Salvador
+824,Aluno_824,15,2º Ano,1.6,7.4,4.2,71.7,Curitiba
+825,Aluno_825,19,1º Ano,10.0,6.6,8.3,92.4,Curitiba
+826,Aluno_826,19,1º Ano,7.7,6.8,6.6,63.5,Rio de Janeiro
+827,Aluno_827,16,1º Ano,5.7,6.8,7.7,92.2,Curitiba
+828,Aluno_828,16,2º Ano,4.9,5.5,6.0,86.8,São Paulo
+829,Aluno_829,15,2º Ano,4.3,8.7,9.3,89.3,Belo Horizonte
+830,Aluno_830,17,2º Ano,7.3,8.5,2.4,77.3,Rio de Janeiro
+831,Aluno_831,14,2º Ano,8.0,7.7,6.9,87.2,Rio de Janeiro
+832,Aluno_832,19,2º Ano,5.7,5.9,8.6,84.4,Salvador
+833,Aluno_833,17,3º Ano,8.2,7.3,6.4,90.8,Belo Horizonte
+834,Aluno_834,18,1º Ano,4.2,8.0,6.7,77.9,Rio de Janeiro
+835,Aluno_835,19,1º Ano,3.8,4.7,5.4,78.9,Curitiba
+836,Aluno_836,19,1º Ano,9.6,9.0,6.2,85.7,Rio de Janeiro
+837,Aluno_837,16,1º Ano,7.2,3.9,3.2,64.3,Rio de Janeiro
+838,Aluno_838,14,1º Ano,8.8,7.6,4.9,77.4,Rio de Janeiro
+839,Aluno_839,14,1º Ano,4.3,8.7,4.8,98.9,Salvador
+840,Aluno_840,18,1º Ano,4.2,6.3,7.4,61.5,Rio de Janeiro
+841,Aluno_841,18,1º Ano,5.3,6.3,5.2,72.6,Rio de Janeiro
+842,Aluno_842,19,3º Ano,4.4,7.5,5.2,72.6,Salvador
+843,Aluno_843,15,1º Ano,7.4,9.3,5.5,85.3,Belo Horizonte
+844,Aluno_844,16,3º Ano,4.5,6.1,4.9,64.2,São Paulo
+845,Aluno_845,16,2º Ano,3.7,5.3,6.7,85.1,Salvador
+846,Aluno_846,19,1º Ano,6.3,5.9,6.9,63.8,Salvador
+847,Aluno_847,17,2º Ano,3.4,4.2,7.7,63.8,Rio de Janeiro
+848,Aluno_848,15,2º Ano,2.4,7.8,7.4,89.1,Rio de Janeiro
+849,Aluno_849,19,2º Ano,6.3,5.7,7.2,73.0,São Paulo
+850,Aluno_850,15,3º Ano,2.5,6.2,5.6,99.1,Rio de Janeiro
+851,Aluno_851,15,2º Ano,7.6,7.9,5.5,61.5,Curitiba
+852,Aluno_852,15,2º Ano,3.2,5.9,4.6,77.8,Rio de Janeiro
+853,Aluno_853,19,2º Ano,1.5,7.6,4.6,64.5,Rio de Janeiro
+854,Aluno_854,16,1º Ano,5.4,4.9,6.5,74.1,Curitiba
+855,Aluno_855,16,1º Ano,6.3,7.9,4.9,99.9,São Paulo
+856,Aluno_856,15,3º Ano,7.0,7.0,8.8,95.6,Curitiba
+857,Aluno_857,17,3º Ano,6.3,6.4,6.1,61.9,Salvador
+858,Aluno_858,14,1º Ano,3.9,6.7,8.9,82.5,Curitiba
+859,Aluno_859,19,3º Ano,7.4,4.6,7.2,85.9,Belo Horizonte
+860,Aluno_860,14,1º Ano,7.9,6.7,4.8,68.4,Salvador
+861,Aluno_861,17,2º Ano,3.6,6.3,6.1,65.8,Rio de Janeiro
+862,Aluno_862,19,2º Ano,5.6,4.6,3.2,96.2,Salvador
+863,Aluno_863,15,3º Ano,5.5,5.5,6.5,98.8,São Paulo
+864,Aluno_864,16,1º Ano,6.4,6.3,5.0,99.7,São Paulo
+865,Aluno_865,14,1º Ano,5.6,5.6,4.2,91.6,Curitiba
+866,Aluno_866,18,3º Ano,5.9,2.9,8.9,86.5,Salvador
+867,Aluno_867,18,1º Ano,7.3,8.1,8.1,73.8,Rio de Janeiro
+868,Aluno_868,17,2º Ano,3.8,6.3,8.0,66.9,São Paulo
+869,Aluno_869,15,3º Ano,7.5,3.1,7.6,63.2,Rio de Janeiro
+870,Aluno_870,14,3º Ano,8.3,9.7,4.0,87.7,Belo Horizonte
+871,Aluno_871,15,1º Ano,9.3,8.4,5.5,91.4,São Paulo
+872,Aluno_872,14,3º Ano,1.7,6.0,5.6,93.1,Curitiba
+873,Aluno_873,17,1º Ano,5.6,5.2,3.1,96.6,Belo Horizonte
+874,Aluno_874,17,1º Ano,2.1,7.1,5.2,95.2,Salvador
+875,Aluno_875,18,1º Ano,1.1,6.8,5.2,100.0,Rio de Janeiro
+876,Aluno_876,15,1º Ano,6.3,7.3,6.4,69.8,São Paulo
+877,Aluno_877,19,1º Ano,5.2,5.2,10.0,90.5,Belo Horizonte
+878,Aluno_878,18,3º Ano,6.6,8.1,6.2,83.5,Belo Horizonte
+879,Aluno_879,15,2º Ano,7.0,5.8,6.4,70.4,São Paulo
+880,Aluno_880,18,2º Ano,8.5,7.5,5.7,99.3,Salvador
+881,Aluno_881,19,3º Ano,6.1,5.3,7.5,95.9,Salvador
+882,Aluno_882,16,3º Ano,10.0,10.0,4.3,65.1,Curitiba
+883,Aluno_883,16,2º Ano,6.6,7.5,9.6,61.0,Salvador
+884,Aluno_884,16,2º Ano,9.7,10.0,6.0,87.5,Curitiba
+885,Aluno_885,16,2º Ano,1.3,7.7,5.5,84.2,Belo Horizonte
+886,Aluno_886,14,2º Ano,8.7,5.7,7.9,97.4,São Paulo
+887,Aluno_887,16,2º Ano,5.6,7.7,4.6,69.4,Salvador
+888,Aluno_888,19,1º Ano,2.1,7.9,7.5,63.4,Curitiba
+889,Aluno_889,17,3º Ano,6.8,7.1,8.7,70.4,Belo Horizonte
+890,Aluno_890,17,1º Ano,5.4,7.4,5.8,60.8,Salvador
+891,Aluno_891,14,2º Ano,7.2,7.6,9.9,61.4,Rio de Janeiro
+892,Aluno_892,16,2º Ano,8.0,5.0,7.4,96.6,Belo Horizonte
+893,Aluno_893,16,2º Ano,3.0,4.9,7.4,74.1,Salvador
+894,Aluno_894,16,1º Ano,8.0,5.3,8.7,76.4,Belo Horizonte
+895,Aluno_895,18,1º Ano,6.0,6.7,9.1,60.7,São Paulo
+896,Aluno_896,15,2º Ano,8.7,6.2,6.7,70.8,São Paulo
+897,Aluno_897,18,1º Ano,5.6,5.0,7.6,92.2,São Paulo
+898,Aluno_898,15,1º Ano,5.1,7.7,8.7,84.6,Rio de Janeiro
+899,Aluno_899,16,2º Ano,6.1,6.9,4.1,90.2,São Paulo
+900,Aluno_900,16,1º Ano,6.2,6.8,3.1,77.9,Rio de Janeiro
+901,Aluno_901,18,3º Ano,4.7,6.1,6.1,72.4,São Paulo
+902,Aluno_902,18,3º Ano,5.0,5.9,3.0,79.3,Belo Horizonte
+903,Aluno_903,15,3º Ano,3.5,5.2,5.6,72.9,Salvador
+904,Aluno_904,17,3º Ano,5.1,7.9,6.8,93.6,Salvador
+905,Aluno_905,15,2º Ano,7.4,5.4,5.7,71.9,São Paulo
+906,Aluno_906,18,2º Ano,5.7,6.8,5.9,86.4,Salvador
+907,Aluno_907,19,2º Ano,8.0,9.0,4.4,65.5,São Paulo
+908,Aluno_908,18,3º Ano,5.6,6.0,7.6,87.5,São Paulo
+909,Aluno_909,19,3º Ano,3.1,7.9,4.3,96.5,Curitiba
+910,Aluno_910,14,1º Ano,7.2,7.4,2.4,84.3,Curitiba
+911,Aluno_911,18,1º Ano,4.7,7.0,5.8,82.4,Curitiba
+912,Aluno_912,14,3º Ano,5.5,7.1,7.8,98.4,Rio de Janeiro
+913,Aluno_913,17,3º Ano,8.5,6.4,6.3,85.1,Curitiba
+914,Aluno_914,15,3º Ano,3.7,6.6,4.1,70.4,São Paulo
+915,Aluno_915,19,3º Ano,6.3,5.7,6.4,71.7,Belo Horizonte
+916,Aluno_916,15,1º Ano,5.9,6.6,7.0,88.2,Curitiba
+917,Aluno_917,14,3º Ano,7.4,5.6,6.4,89.4,Curitiba
+918,Aluno_918,19,1º Ano,7.7,8.0,5.7,72.1,Belo Horizonte
+919,Aluno_919,15,3º Ano,6.5,4.0,7.1,73.8,São Paulo
+920,Aluno_920,18,3º Ano,5.3,7.2,3.1,99.6,Rio de Janeiro
+921,Aluno_921,16,3º Ano,6.9,7.0,4.6,64.1,Curitiba
+922,Aluno_922,14,1º Ano,8.7,6.9,3.9,76.2,Belo Horizonte
+923,Aluno_923,15,1º Ano,5.9,8.0,8.6,62.5,São Paulo
+924,Aluno_924,14,2º Ano,5.5,6.1,7.5,92.8,Salvador
+925,Aluno_925,14,3º Ano,6.8,6.9,6.5,63.7,Rio de Janeiro
+926,Aluno_926,19,2º Ano,6.1,3.9,3.6,87.0,Belo Horizonte
+927,Aluno_927,19,2º Ano,3.3,5.9,7.5,62.3,Belo Horizonte
+928,Aluno_928,16,1º Ano,6.5,7.8,8.7,86.9,Belo Horizonte
+929,Aluno_929,18,1º Ano,3.3,4.5,7.2,93.7,Curitiba
+930,Aluno_930,14,2º Ano,6.7,6.7,6.1,76.0,Salvador
+931,Aluno_931,15,3º Ano,4.4,5.5,7.3,80.9,Rio de Janeiro
+932,Aluno_932,17,1º Ano,6.1,6.3,6.7,76.1,São Paulo
+933,Aluno_933,14,3º Ano,6.8,5.6,7.9,72.0,São Paulo
+934,Aluno_934,14,3º Ano,10.0,4.6,7.8,92.1,Salvador
+935,Aluno_935,16,2º Ano,7.5,7.1,5.8,70.9,Belo Horizonte
+936,Aluno_936,18,2º Ano,8.7,6.4,5.0,88.9,Belo Horizonte
+937,Aluno_937,17,2º Ano,9.7,7.4,5.5,68.2,Belo Horizonte
+938,Aluno_938,19,2º Ano,7.0,7.7,7.2,70.0,Belo Horizonte
+939,Aluno_939,19,1º Ano,6.6,8.3,5.6,73.5,Belo Horizonte
+940,Aluno_940,15,1º Ano,3.9,6.7,4.8,83.6,Salvador
+941,Aluno_941,17,2º Ano,5.8,8.4,6.2,78.2,Curitiba
+942,Aluno_942,19,1º Ano,4.6,5.0,8.2,89.8,Rio de Janeiro
+943,Aluno_943,15,2º Ano,5.2,7.9,6.4,68.5,Belo Horizonte
+944,Aluno_944,18,3º Ano,9.7,7.2,5.7,60.4,Curitiba
+945,Aluno_945,15,3º Ano,6.2,6.8,6.8,91.1,São Paulo
+946,Aluno_946,19,3º Ano,4.2,7.2,6.4,92.9,Salvador
+947,Aluno_947,16,2º Ano,8.7,5.1,2.7,62.4,Curitiba
+948,Aluno_948,16,3º Ano,7.9,4.7,7.5,84.4,Belo Horizonte
+949,Aluno_949,16,1º Ano,8.0,9.1,6.9,75.1,Belo Horizonte
+950,Aluno_950,19,3º Ano,2.0,6.2,6.2,91.8,Belo Horizonte
+951,Aluno_951,16,3º Ano,9.9,6.2,8.1,95.0,Curitiba
+952,Aluno_952,17,3º Ano,4.9,4.8,8.4,94.0,Belo Horizonte
+953,Aluno_953,18,1º Ano,7.6,4.3,7.6,91.1,Curitiba
+954,Aluno_954,15,2º Ano,10.0,6.4,4.7,70.8,Belo Horizonte
+955,Aluno_955,15,1º Ano,10.0,6.0,4.7,92.5,São Paulo
+956,Aluno_956,19,2º Ano,4.0,6.5,8.2,81.3,São Paulo
+957,Aluno_957,16,2º Ano,3.1,6.6,2.8,62.1,Rio de Janeiro
+958,Aluno_958,16,3º Ano,8.9,10.0,5.9,78.3,Belo Horizonte
+959,Aluno_959,14,2º Ano,6.3,6.0,7.0,97.7,Belo Horizonte
+960,Aluno_960,18,1º Ano,5.0,8.9,3.0,95.5,Curitiba
+961,Aluno_961,17,1º Ano,7.2,9.0,6.6,64.1,Curitiba
+962,Aluno_962,15,2º Ano,5.7,7.6,7.9,89.8,Belo Horizonte
+963,Aluno_963,14,3º Ano,7.4,6.1,3.5,92.2,Rio de Janeiro
+964,Aluno_964,14,3º Ano,6.1,4.5,9.2,70.9,Belo Horizonte
+965,Aluno_965,19,1º Ano,7.4,7.2,4.4,78.9,Curitiba
+966,Aluno_966,15,3º Ano,4.2,8.0,7.2,88.4,Belo Horizonte
+967,Aluno_967,19,2º Ano,8.8,9.1,6.0,77.6,Curitiba
+968,Aluno_968,17,2º Ano,7.4,5.1,6.3,64.5,Belo Horizonte
+969,Aluno_969,14,1º Ano,7.3,6.1,3.9,88.2,Salvador
+970,Aluno_970,14,2º Ano,3.8,5.1,8.5,96.5,Curitiba
+971,Aluno_971,18,1º Ano,9.4,5.5,6.8,86.1,Rio de Janeiro
+972,Aluno_972,17,2º Ano,6.0,7.5,9.1,91.0,Salvador
+973,Aluno_973,14,1º Ano,7.5,5.5,3.9,74.3,Belo Horizonte
+974,Aluno_974,17,3º Ano,5.4,5.3,5.9,67.3,Curitiba
+975,Aluno_975,15,2º Ano,6.5,7.7,6.6,85.7,Salvador
+976,Aluno_976,16,2º Ano,6.6,7.2,6.3,73.1,Rio de Janeiro
+977,Aluno_977,14,1º Ano,0.4,7.0,7.4,94.4,Curitiba
+978,Aluno_978,18,1º Ano,7.2,5.5,5.9,64.9,Salvador
+979,Aluno_979,15,2º Ano,9.9,8.4,10.0,77.3,Salvador
+980,Aluno_980,17,1º Ano,7.1,6.5,6.3,75.9,Salvador
+981,Aluno_981,19,2º Ano,4.1,10.0,1.0,97.5,São Paulo
+982,Aluno_982,15,3º Ano,7.3,6.7,6.4,66.1,Belo Horizonte
+983,Aluno_983,14,1º Ano,8.1,3.0,8.5,60.4,Curitiba
+984,Aluno_984,17,2º Ano,7.0,2.9,4.5,69.5,Curitiba
+985,Aluno_985,16,3º Ano,5.9,7.4,4.4,92.8,Curitiba
+986,Aluno_986,15,3º Ano,5.5,8.5,4.7,68.4,Salvador
+987,Aluno_987,14,2º Ano,5.5,5.3,4.3,69.6,Belo Horizonte
+988,Aluno_988,18,1º Ano,7.4,9.7,5.3,65.2,Rio de Janeiro
+989,Aluno_989,19,2º Ano,3.2,9.0,7.8,88.6,Curitiba
+990,Aluno_990,17,3º Ano,5.3,6.8,8.9,62.8,Belo Horizonte
+991,Aluno_991,15,2º Ano,9.2,7.3,1.8,73.2,Belo Horizonte
+992,Aluno_992,15,1º Ano,9.3,7.8,5.5,71.3,São Paulo
+993,Aluno_993,16,3º Ano,3.0,9.3,6.7,82.2,Curitiba
+994,Aluno_994,16,2º Ano,3.7,7.5,6.6,89.2,Salvador
+995,Aluno_995,18,1º Ano,5.5,6.8,9.6,81.3,Belo Horizonte
+996,Aluno_996,19,3º Ano,7.8,7.5,2.6,97.2,Belo Horizonte
+997,Aluno_997,18,1º Ano,2.3,7.3,1.5,98.1,Rio de Janeiro
+998,Aluno_998,14,3º Ano,5.9,7.9,9.9,74.5,São Paulo
+999,Aluno_999,14,2º Ano,5.1,4.1,7.6,91.1,Belo Horizonte
+1000,Aluno_1000,18,1º Ano,8.7,7.0,5.2,89.6,Belo Horizonte
+1001,Aluno_1001,19,3º Ano,2.6,7.2,6.5,95.7,Salvador
+1002,Aluno_1002,18,1º Ano,6.2,6.4,6.6,77.9,Salvador
+1003,Aluno_1003,19,1º Ano,5.2,7.7,5.1,81.2,Rio de Janeiro
+1004,Aluno_1004,19,2º Ano,8.9,9.4,6.5,76.6,Rio de Janeiro
+1005,Aluno_1005,17,1º Ano,7.2,6.7,6.8,94.0,Rio de Janeiro
+1006,Aluno_1006,19,3º Ano,4.8,7.5,9.8,69.2,Salvador
+1007,Aluno_1007,16,3º Ano,7.7,8.9,7.9,69.6,Salvador
+1008,Aluno_1008,19,3º Ano,5.2,6.7,9.3,74.9,São Paulo
+1009,Aluno_1009,19,3º Ano,8.0,5.2,3.8,69.2,Curitiba
+1010,Aluno_1010,19,2º Ano,5.5,7.4,5.6,82.4,Curitiba
+1011,Aluno_1011,14,1º Ano,8.1,3.2,6.6,65.4,São Paulo
+1012,Aluno_1012,16,2º Ano,6.9,3.1,2.7,72.8,Curitiba
+1013,Aluno_1013,16,1º Ano,10.0,7.0,8.3,96.5,Salvador
+1014,Aluno_1014,18,1º Ano,5.9,3.0,7.4,76.4,Curitiba
+1015,Aluno_1015,17,1º Ano,6.8,4.5,5.5,89.9,Salvador
+1016,Aluno_1016,19,2º Ano,5.0,5.9,5.9,64.5,São Paulo
+1017,Aluno_1017,15,1º Ano,6.0,5.4,8.5,69.9,Rio de Janeiro
+1018,Aluno_1018,17,2º Ano,0.6,6.3,4.8,92.3,São Paulo
+1019,Aluno_1019,17,3º Ano,6.9,8.2,8.5,90.5,Curitiba
+1020,Aluno_1020,16,3º Ano,8.7,6.9,5.7,75.4,Salvador
+1021,Aluno_1021,17,1º Ano,6.8,5.2,7.6,98.2,Curitiba
+1022,Aluno_1022,19,2º Ano,3.4,8.5,6.4,96.4,Curitiba
+1023,Aluno_1023,19,3º Ano,4.4,4.4,10.0,98.5,Rio de Janeiro
+1024,Aluno_1024,14,2º Ano,1.1,6.8,4.6,77.1,Curitiba
+1025,Aluno_1025,19,2º Ano,8.0,4.2,5.2,67.9,Rio de Janeiro
+1026,Aluno_1026,19,1º Ano,4.0,6.9,3.5,85.1,Salvador
+1027,Aluno_1027,16,3º Ano,5.9,6.0,4.2,87.4,Salvador
+1028,Aluno_1028,19,1º Ano,5.7,8.1,7.5,65.0,Rio de Janeiro
+1029,Aluno_1029,14,1º Ano,9.0,7.6,9.1,91.5,São Paulo
+1030,Aluno_1030,15,3º Ano,6.2,5.6,7.7,60.7,Salvador
+1031,Aluno_1031,16,3º Ano,7.6,5.3,6.2,79.3,São Paulo
+1032,Aluno_1032,15,2º Ano,7.1,6.0,4.6,73.2,Salvador
+1033,Aluno_1033,16,3º Ano,8.7,9.3,7.8,89.6,Salvador
+1034,Aluno_1034,18,2º Ano,5.5,8.9,4.5,72.5,Belo Horizonte
+1035,Aluno_1035,17,2º Ano,9.7,5.0,3.8,93.1,Curitiba
+1036,Aluno_1036,18,2º Ano,2.0,7.7,5.6,83.8,Curitiba
+1037,Aluno_1037,19,3º Ano,7.7,3.9,2.5,91.8,São Paulo
+1038,Aluno_1038,15,1º Ano,4.3,5.8,3.7,99.6,Curitiba
+1039,Aluno_1039,19,2º Ano,5.0,5.1,9.6,87.2,São Paulo
+1040,Aluno_1040,17,1º Ano,7.1,8.1,3.4,99.4,Salvador
+1041,Aluno_1041,16,1º Ano,7.1,4.6,4.1,61.2,Belo Horizonte
+1042,Aluno_1042,17,3º Ano,7.2,7.1,6.3,73.5,Belo Horizonte
+1043,Aluno_1043,14,1º Ano,3.2,6.5,6.4,64.3,Salvador
+1044,Aluno_1044,17,1º Ano,8.9,6.2,5.8,70.5,Rio de Janeiro
+1045,Aluno_1045,14,3º Ano,4.2,9.0,2.6,93.6,Rio de Janeiro
+1046,Aluno_1046,17,2º Ano,4.5,9.1,7.7,61.3,Curitiba
+1047,Aluno_1047,14,1º Ano,7.3,6.3,5.4,80.8,São Paulo
+1048,Aluno_1048,15,3º Ano,5.4,6.0,8.4,82.7,Belo Horizonte
+1049,Aluno_1049,19,1º Ano,6.6,4.2,5.0,82.4,Curitiba
+1050,Aluno_1050,19,1º Ano,1.7,6.5,8.0,79.0,Salvador
+1051,Aluno_1051,18,2º Ano,6.6,9.4,8.5,91.6,Belo Horizonte
+1052,Aluno_1052,19,1º Ano,6.4,6.3,5.4,65.3,São Paulo
+1053,Aluno_1053,16,3º Ano,5.0,7.6,7.8,72.4,São Paulo
+1054,Aluno_1054,17,1º Ano,1.9,4.4,3.8,84.6,Rio de Janeiro
+1055,Aluno_1055,18,2º Ano,5.6,5.8,6.7,87.6,Curitiba
+1056,Aluno_1056,16,2º Ano,5.9,7.2,8.4,76.2,Salvador
+1057,Aluno_1057,16,3º Ano,5.3,6.7,7.1,95.0,Belo Horizonte
+1058,Aluno_1058,14,2º Ano,2.3,7.7,10.0,76.6,São Paulo
+1059,Aluno_1059,19,1º Ano,9.2,5.6,7.2,76.1,Belo Horizonte
+1060,Aluno_1060,15,2º Ano,4.7,3.9,5.5,61.4,Salvador
+1061,Aluno_1061,15,3º Ano,5.6,8.2,10.0,82.0,Belo Horizonte
+1062,Aluno_1062,18,2º Ano,1.2,5.1,9.1,88.3,Curitiba
+1063,Aluno_1063,15,2º Ano,9.2,7.3,3.3,64.6,Rio de Janeiro
+1064,Aluno_1064,17,2º Ano,5.1,7.2,4.8,72.2,Belo Horizonte
+1065,Aluno_1065,15,3º Ano,6.2,4.0,4.3,91.3,Rio de Janeiro
+1066,Aluno_1066,18,2º Ano,8.2,8.1,7.4,74.6,Salvador
+1067,Aluno_1067,15,2º Ano,4.6,5.7,7.2,69.7,Rio de Janeiro
+1068,Aluno_1068,17,1º Ano,7.9,6.6,7.2,86.9,Belo Horizonte
+1069,Aluno_1069,14,3º Ano,1.9,6.0,3.3,67.9,Belo Horizonte
+1070,Aluno_1070,18,2º Ano,7.1,8.9,5.1,95.8,São Paulo
+1071,Aluno_1071,14,3º Ano,9.1,8.5,5.9,64.2,Belo Horizonte
+1072,Aluno_1072,14,2º Ano,4.8,3.8,2.9,88.3,Rio de Janeiro
+1073,Aluno_1073,14,2º Ano,8.2,9.9,4.6,80.0,São Paulo
+1074,Aluno_1074,16,2º Ano,9.7,5.5,8.6,94.8,Belo Horizonte
+1075,Aluno_1075,19,1º Ano,5.5,9.7,3.4,65.0,Belo Horizonte
+1076,Aluno_1076,16,1º Ano,5.3,6.1,8.8,87.1,Salvador
+1077,Aluno_1077,19,1º Ano,4.2,6.0,8.2,82.9,São Paulo
+1078,Aluno_1078,14,3º Ano,5.0,6.1,5.7,79.2,Salvador
+1079,Aluno_1079,18,3º Ano,4.4,5.9,5.0,79.7,Salvador
+1080,Aluno_1080,19,1º Ano,4.2,10.0,7.7,88.9,Salvador
+1081,Aluno_1081,17,3º Ano,8.4,6.4,4.8,97.5,Curitiba
+1082,Aluno_1082,17,2º Ano,4.4,6.0,4.9,63.7,Salvador
+1083,Aluno_1083,15,2º Ano,6.5,6.6,6.2,60.8,Rio de Janeiro
+1084,Aluno_1084,19,2º Ano,6.1,5.0,2.4,92.2,Belo Horizonte
+1085,Aluno_1085,18,1º Ano,9.0,8.9,3.6,64.3,Curitiba
+1086,Aluno_1086,16,3º Ano,5.0,4.3,5.6,99.5,Salvador
+1087,Aluno_1087,14,1º Ano,6.8,5.6,7.1,84.8,Belo Horizonte
+1088,Aluno_1088,15,3º Ano,7.6,7.9,4.8,86.0,São Paulo
+1089,Aluno_1089,17,2º Ano,9.0,6.6,5.8,68.0,São Paulo
+1090,Aluno_1090,16,1º Ano,5.0,7.3,3.3,69.6,Belo Horizonte
+1091,Aluno_1091,16,3º Ano,4.8,8.8,7.9,86.4,Rio de Janeiro
+1092,Aluno_1092,14,3º Ano,3.9,8.0,6.6,96.4,Belo Horizonte
+1093,Aluno_1093,19,2º Ano,10.0,6.7,6.8,99.3,Belo Horizonte
+1094,Aluno_1094,17,1º Ano,8.8,9.6,7.1,67.9,Curitiba
+1095,Aluno_1095,18,1º Ano,5.9,5.6,6.3,65.4,São Paulo
+1096,Aluno_1096,16,1º Ano,9.9,6.3,5.3,62.3,São Paulo
+1097,Aluno_1097,14,2º Ano,5.8,6.5,8.2,94.7,Salvador
+1098,Aluno_1098,18,1º Ano,7.4,6.3,6.5,71.8,Belo Horizonte
+1099,Aluno_1099,19,2º Ano,6.0,4.9,5.9,60.1,Belo Horizonte
+1100,Aluno_1100,17,2º Ano,6.8,4.1,6.2,69.0,Rio de Janeiro
+1101,Aluno_1101,19,2º Ano,6.6,7.1,6.1,73.6,São Paulo
+1102,Aluno_1102,16,3º Ano,5.2,5.5,5.9,99.6,Rio de Janeiro
+1103,Aluno_1103,18,1º Ano,8.2,9.4,7.0,80.9,Curitiba
+1104,Aluno_1104,18,1º Ano,7.4,6.4,4.5,68.2,Salvador
+1105,Aluno_1105,18,2º Ano,8.1,6.1,4.6,73.4,Rio de Janeiro
+1106,Aluno_1106,16,2º Ano,6.6,8.1,7.2,73.2,São Paulo
+1107,Aluno_1107,16,1º Ano,4.2,7.1,5.9,60.8,Curitiba
+1108,Aluno_1108,19,2º Ano,9.4,6.2,7.9,65.4,Belo Horizonte
+1109,Aluno_1109,15,1º Ano,5.5,5.5,6.9,87.8,Curitiba
+1110,Aluno_1110,19,3º Ano,6.7,10.0,5.2,64.8,Rio de Janeiro
+1111,Aluno_1111,17,2º Ano,7.3,7.0,7.2,69.2,São Paulo
+1112,Aluno_1112,14,1º Ano,6.7,8.1,8.4,74.0,Rio de Janeiro
+1113,Aluno_1113,18,2º Ano,7.8,5.0,7.0,90.3,Belo Horizonte
+1114,Aluno_1114,15,1º Ano,8.1,5.6,7.4,83.3,Belo Horizonte
+1115,Aluno_1115,14,1º Ano,5.6,9.7,5.9,87.6,São Paulo
+1116,Aluno_1116,15,2º Ano,9.3,8.6,8.0,82.7,Salvador
+1117,Aluno_1117,19,3º Ano,5.5,7.2,5.2,87.3,Curitiba
+1118,Aluno_1118,16,1º Ano,6.7,5.9,6.8,60.1,Curitiba
+1119,Aluno_1119,18,1º Ano,5.2,6.1,10.0,97.2,Belo Horizonte
+1120,Aluno_1120,19,1º Ano,4.7,5.5,7.2,64.4,Rio de Janeiro
+1121,Aluno_1121,14,3º Ano,8.1,4.8,5.4,76.2,Rio de Janeiro
+1122,Aluno_1122,14,3º Ano,10.0,7.9,5.4,90.8,Salvador
+1123,Aluno_1123,14,2º Ano,5.3,7.3,6.1,77.4,Rio de Janeiro
+1124,Aluno_1124,14,3º Ano,8.4,7.6,7.7,97.9,Curitiba
+1125,Aluno_1125,14,2º Ano,5.3,6.0,6.5,78.7,Rio de Janeiro
+1126,Aluno_1126,15,2º Ano,6.0,6.9,5.0,95.0,Salvador
+1127,Aluno_1127,19,3º Ano,9.5,5.9,5.0,92.4,Curitiba
+1128,Aluno_1128,18,2º Ano,3.9,5.4,6.5,99.2,Rio de Janeiro
+1129,Aluno_1129,16,3º Ano,3.3,9.0,6.3,97.1,Curitiba
+1130,Aluno_1130,16,2º Ano,5.8,6.7,7.0,95.9,Belo Horizonte
+1131,Aluno_1131,19,3º Ano,7.3,7.3,7.9,89.3,Belo Horizonte
+1132,Aluno_1132,19,3º Ano,6.9,7.8,10.0,74.7,Belo Horizonte
+1133,Aluno_1133,16,2º Ano,6.7,6.7,3.6,64.2,Rio de Janeiro
+1134,Aluno_1134,16,1º Ano,6.1,6.9,7.4,87.5,Salvador
+1135,Aluno_1135,15,2º Ano,7.6,4.9,6.4,99.1,Curitiba
+1136,Aluno_1136,17,3º Ano,0.2,5.2,2.9,89.1,São Paulo
+1137,Aluno_1137,18,1º Ano,4.5,5.1,8.4,97.1,Belo Horizonte
+1138,Aluno_1138,14,2º Ano,5.8,7.4,7.0,92.2,Belo Horizonte
+1139,Aluno_1139,17,2º Ano,7.4,6.6,7.6,66.5,São Paulo
+1140,Aluno_1140,19,2º Ano,9.0,5.2,3.1,70.0,São Paulo
+1141,Aluno_1141,16,1º Ano,4.2,7.4,5.8,73.7,Rio de Janeiro
+1142,Aluno_1142,17,3º Ano,8.9,7.3,4.3,66.7,Curitiba
+1143,Aluno_1143,18,2º Ano,5.1,5.5,10.0,83.3,Belo Horizonte
+1144,Aluno_1144,19,2º Ano,5.7,6.5,8.3,99.0,Salvador
+1145,Aluno_1145,14,2º Ano,7.2,7.3,5.0,90.5,Rio de Janeiro
+1146,Aluno_1146,14,2º Ano,5.6,5.2,3.4,76.9,Rio de Janeiro
+1147,Aluno_1147,18,2º Ano,8.2,7.3,6.5,60.2,Salvador
+1148,Aluno_1148,18,3º Ano,5.2,7.0,8.2,72.5,Salvador
+1149,Aluno_1149,16,3º Ano,5.2,5.0,3.1,81.1,Salvador
+1150,Aluno_1150,14,2º Ano,8.1,6.8,4.5,73.0,São Paulo
+1151,Aluno_1151,19,1º Ano,4.5,7.0,4.2,64.4,Belo Horizonte
+1152,Aluno_1152,17,3º Ano,6.5,5.6,7.8,77.7,São Paulo
+1153,Aluno_1153,19,1º Ano,2.7,5.7,5.5,70.1,Belo Horizonte
+1154,Aluno_1154,15,3º Ano,9.6,5.0,5.6,96.4,São Paulo
+1155,Aluno_1155,15,2º Ano,8.4,5.8,6.5,64.1,Curitiba
+1156,Aluno_1156,18,3º Ano,10.0,6.5,4.6,62.0,Belo Horizonte
+1157,Aluno_1157,16,2º Ano,8.7,5.7,3.6,60.2,Rio de Janeiro
+1158,Aluno_1158,15,3º Ano,3.7,4.3,8.7,73.1,Belo Horizonte
+1159,Aluno_1159,14,2º Ano,7.3,5.5,8.8,86.4,Belo Horizonte
+1160,Aluno_1160,19,2º Ano,4.2,5.9,6.5,89.2,Belo Horizonte
+1161,Aluno_1161,19,2º Ano,9.2,7.7,6.7,78.1,Curitiba
+1162,Aluno_1162,18,2º Ano,3.8,7.4,8.5,87.4,São Paulo
+1163,Aluno_1163,17,1º Ano,3.7,7.8,6.5,74.4,Rio de Janeiro
+1164,Aluno_1164,18,2º Ano,2.8,5.4,5.4,86.7,São Paulo
+1165,Aluno_1165,17,1º Ano,5.0,6.7,6.3,61.6,São Paulo
+1166,Aluno_1166,18,1º Ano,4.6,2.9,8.7,75.6,Salvador
+1167,Aluno_1167,18,2º Ano,3.5,7.1,6.3,91.6,Curitiba
+1168,Aluno_1168,18,1º Ano,10.0,7.4,5.0,92.1,Salvador
+1169,Aluno_1169,17,3º Ano,7.1,6.0,6.5,88.6,Curitiba
+1170,Aluno_1170,17,2º Ano,6.8,6.9,7.4,68.2,São Paulo
+1171,Aluno_1171,18,1º Ano,9.2,4.2,7.2,69.9,São Paulo
+1172,Aluno_1172,15,2º Ano,6.5,5.3,7.2,99.8,Curitiba
+1173,Aluno_1173,16,2º Ano,4.5,7.6,4.7,64.1,São Paulo
+1174,Aluno_1174,16,2º Ano,2.6,7.3,7.6,67.2,São Paulo
+1175,Aluno_1175,16,1º Ano,4.4,5.9,6.3,65.2,Rio de Janeiro
+1176,Aluno_1176,17,3º Ano,9.0,7.7,4.9,73.1,Salvador
+1177,Aluno_1177,17,3º Ano,3.5,6.7,7.6,68.4,Salvador
+1178,Aluno_1178,15,1º Ano,6.7,5.7,5.4,79.9,Salvador
+1179,Aluno_1179,16,2º Ano,8.1,6.2,3.4,79.0,Belo Horizonte
+1180,Aluno_1180,16,1º Ano,6.6,5.8,4.4,96.1,Rio de Janeiro
+1181,Aluno_1181,18,1º Ano,6.8,4.7,5.9,61.4,Salvador
+1182,Aluno_1182,17,1º Ano,7.3,8.4,7.2,72.8,Salvador
+1183,Aluno_1183,16,2º Ano,6.8,5.6,4.6,83.9,Rio de Janeiro
+1184,Aluno_1184,19,1º Ano,9.2,5.3,5.8,84.2,São Paulo
+1185,Aluno_1185,15,2º Ano,3.9,4.2,4.0,79.2,Salvador
+1186,Aluno_1186,19,1º Ano,6.5,2.5,8.0,92.6,São Paulo
+1187,Aluno_1187,19,3º Ano,2.4,7.6,9.3,62.5,Salvador
+1188,Aluno_1188,15,1º Ano,1.9,7.7,9.1,92.6,Curitiba
+1189,Aluno_1189,19,1º Ano,5.8,8.3,7.9,79.8,Belo Horizonte
+1190,Aluno_1190,16,3º Ano,7.1,6.3,7.8,65.4,Salvador
+1191,Aluno_1191,17,2º Ano,9.3,6.0,2.5,95.4,Curitiba
+1192,Aluno_1192,15,2º Ano,10.0,5.7,6.5,86.0,Rio de Janeiro
+1193,Aluno_1193,18,1º Ano,8.6,5.9,5.3,66.5,Curitiba
+1194,Aluno_1194,19,3º Ano,7.5,8.2,7.8,61.3,Rio de Janeiro
+1195,Aluno_1195,15,2º Ano,6.3,6.5,1.6,65.6,Salvador
+1196,Aluno_1196,14,1º Ano,2.9,7.1,6.5,84.4,Rio de Janeiro
+1197,Aluno_1197,14,3º Ano,5.7,5.8,5.8,67.2,Curitiba
+1198,Aluno_1198,17,2º Ano,8.6,8.5,8.2,69.0,Belo Horizonte
+1199,Aluno_1199,16,2º Ano,7.8,3.6,9.0,61.0,São Paulo
+1200,Aluno_1200,17,3º Ano,3.4,4.7,4.5,88.9,São Paulo
+1201,Aluno_1201,17,3º Ano,7.2,7.1,4.6,92.4,Belo Horizonte
+1202,Aluno_1202,17,3º Ano,7.1,9.1,6.6,91.9,São Paulo
+1203,Aluno_1203,17,3º Ano,6.7,6.2,9.3,65.1,Salvador
+1204,Aluno_1204,18,1º Ano,5.9,5.2,6.3,96.1,Salvador
+1205,Aluno_1205,18,3º Ano,7.3,8.0,3.9,86.9,Curitiba
+1206,Aluno_1206,15,2º Ano,7.4,7.0,5.1,95.9,Curitiba
+1207,Aluno_1207,14,2º Ano,4.7,8.4,6.6,77.9,Rio de Janeiro
+1208,Aluno_1208,17,1º Ano,6.9,4.6,6.6,77.5,Curitiba
+1209,Aluno_1209,15,2º Ano,5.6,8.3,4.9,91.4,Salvador
+1210,Aluno_1210,14,2º Ano,3.0,4.2,5.1,63.7,Curitiba
+1211,Aluno_1211,19,3º Ano,4.9,6.1,4.4,80.8,São Paulo
+1212,Aluno_1212,16,2º Ano,2.9,7.1,8.3,93.5,Rio de Janeiro
+1213,Aluno_1213,18,1º Ano,8.0,6.8,4.7,93.2,Rio de Janeiro
+1214,Aluno_1214,19,3º Ano,6.7,8.1,5.4,98.2,Salvador
+1215,Aluno_1215,14,3º Ano,5.3,3.8,5.3,87.9,Curitiba
+1216,Aluno_1216,19,1º Ano,8.8,6.7,3.3,68.3,São Paulo
+1217,Aluno_1217,16,3º Ano,6.1,8.3,4.6,60.8,Curitiba
+1218,Aluno_1218,14,3º Ano,3.1,6.6,8.4,79.2,Belo Horizonte
+1219,Aluno_1219,19,1º Ano,5.1,4.8,4.0,80.5,Curitiba
+1220,Aluno_1220,18,3º Ano,9.3,8.0,4.5,69.6,Salvador
+1221,Aluno_1221,18,1º Ano,4.7,5.5,3.8,65.0,Curitiba
+1222,Aluno_1222,15,1º Ano,6.6,5.3,6.0,83.4,Rio de Janeiro
+1223,Aluno_1223,19,2º Ano,7.5,5.1,9.6,90.6,São Paulo
+1224,Aluno_1224,17,2º Ano,7.2,6.2,6.0,99.7,Salvador
+1225,Aluno_1225,19,3º Ano,10.0,6.8,6.3,90.3,Belo Horizonte
+1226,Aluno_1226,14,3º Ano,3.6,4.6,4.8,91.7,São Paulo
+1227,Aluno_1227,14,1º Ano,3.8,4.9,6.1,84.7,São Paulo
+1228,Aluno_1228,19,3º Ano,3.7,5.5,8.4,99.4,Rio de Janeiro
+1229,Aluno_1229,16,1º Ano,5.4,5.1,6.5,85.6,Rio de Janeiro
+1230,Aluno_1230,18,1º Ano,8.2,6.6,10.0,94.4,Rio de Janeiro
+1231,Aluno_1231,14,3º Ano,3.9,7.0,8.5,97.8,Salvador
+1232,Aluno_1232,18,1º Ano,8.2,6.8,6.0,97.2,Curitiba
+1233,Aluno_1233,14,2º Ano,6.1,6.8,6.0,75.3,São Paulo
+1234,Aluno_1234,15,3º Ano,3.8,9.0,9.1,63.1,Curitiba
+1235,Aluno_1235,17,2º Ano,2.5,7.1,6.4,66.9,Curitiba
+1236,Aluno_1236,14,3º Ano,2.9,7.7,8.7,62.4,Rio de Janeiro
+1237,Aluno_1237,18,1º Ano,4.7,5.9,9.8,64.2,Curitiba
+1238,Aluno_1238,15,3º Ano,5.7,7.9,5.8,67.4,São Paulo
+1239,Aluno_1239,14,2º Ano,8.7,5.8,6.8,73.6,São Paulo
+1240,Aluno_1240,16,1º Ano,7.6,7.1,8.0,81.7,Belo Horizonte
+1241,Aluno_1241,17,3º Ano,4.3,4.4,7.6,88.5,Salvador
+1242,Aluno_1242,14,3º Ano,6.8,6.7,7.6,68.4,Curitiba
+1243,Aluno_1243,15,3º Ano,9.3,5.0,3.8,86.9,Salvador
+1244,Aluno_1244,16,2º Ano,9.7,7.9,4.7,88.2,Salvador
+1245,Aluno_1245,19,2º Ano,5.4,7.8,5.3,82.3,Salvador
+1246,Aluno_1246,15,3º Ano,7.9,5.8,8.4,96.1,Salvador
+1247,Aluno_1247,15,1º Ano,8.8,9.6,4.0,64.4,São Paulo
+1248,Aluno_1248,16,1º Ano,3.0,6.1,8.9,67.1,Curitiba
+1249,Aluno_1249,15,2º Ano,5.0,4.1,7.6,77.1,Belo Horizonte
+1250,Aluno_1250,16,1º Ano,10.0,5.3,8.3,65.1,Salvador
+1251,Aluno_1251,14,2º Ano,5.4,4.9,4.5,82.7,Belo Horizonte
+1252,Aluno_1252,16,3º Ano,0.1,7.1,6.3,75.9,São Paulo
+1253,Aluno_1253,16,2º Ano,5.8,4.6,6.7,71.4,São Paulo
+1254,Aluno_1254,17,2º Ano,8.2,5.7,6.7,66.8,Rio de Janeiro
+1255,Aluno_1255,16,3º Ano,6.0,7.0,6.7,73.4,Salvador
+1256,Aluno_1256,16,1º Ano,7.4,6.7,5.7,84.3,Rio de Janeiro
+1257,Aluno_1257,19,2º Ano,7.9,6.5,6.4,83.0,Belo Horizonte
+1258,Aluno_1258,14,2º Ano,5.3,6.7,8.1,66.5,Curitiba
+1259,Aluno_1259,17,3º Ano,5.0,5.9,4.1,65.0,Rio de Janeiro
+1260,Aluno_1260,19,1º Ano,6.3,4.1,9.0,61.1,São Paulo
+1261,Aluno_1261,18,2º Ano,6.4,5.9,8.0,60.5,Salvador
+1262,Aluno_1262,14,3º Ano,6.1,7.2,4.5,95.2,Belo Horizonte
+1263,Aluno_1263,14,2º Ano,6.2,6.3,6.9,61.8,São Paulo
+1264,Aluno_1264,18,3º Ano,4.5,7.1,7.8,89.2,Curitiba
+1265,Aluno_1265,16,1º Ano,7.5,5.6,4.0,94.9,Salvador
+1266,Aluno_1266,19,1º Ano,7.2,8.0,6.3,63.9,Curitiba
+1267,Aluno_1267,15,1º Ano,3.3,2.7,6.1,77.5,Curitiba
+1268,Aluno_1268,17,1º Ano,5.2,6.7,5.0,98.5,Salvador
+1269,Aluno_1269,15,2º Ano,6.2,8.5,6.4,93.4,Salvador
+1270,Aluno_1270,18,2º Ano,4.9,8.7,5.1,79.6,Curitiba
+1271,Aluno_1271,14,1º Ano,7.3,6.2,8.7,90.5,Belo Horizonte
+1272,Aluno_1272,14,1º Ano,5.9,4.5,5.1,93.3,Salvador
+1273,Aluno_1273,17,1º Ano,6.3,8.5,7.6,73.9,São Paulo
+1274,Aluno_1274,14,2º Ano,5.2,6.4,3.2,95.7,Rio de Janeiro
+1275,Aluno_1275,14,1º Ano,2.0,6.3,5.9,78.8,Belo Horizonte
+1276,Aluno_1276,17,1º Ano,1.9,5.2,6.2,81.1,Salvador
+1277,Aluno_1277,19,1º Ano,7.2,4.6,5.9,100.0,Salvador
+1278,Aluno_1278,19,3º Ano,6.5,7.3,5.5,93.7,Belo Horizonte
+1279,Aluno_1279,17,1º Ano,6.9,7.5,5.0,74.5,Rio de Janeiro
+1280,Aluno_1280,18,3º Ano,6.3,6.8,7.6,60.4,Curitiba
+1281,Aluno_1281,14,3º Ano,6.4,5.4,8.0,85.0,São Paulo
+1282,Aluno_1282,14,1º Ano,7.9,4.9,6.1,88.2,Salvador
+1283,Aluno_1283,18,3º Ano,6.9,4.4,4.2,86.0,Rio de Janeiro
+1284,Aluno_1284,19,1º Ano,8.1,5.7,9.4,98.7,São Paulo
+1285,Aluno_1285,16,2º Ano,6.3,5.0,4.6,94.5,Belo Horizonte
+1286,Aluno_1286,16,2º Ano,5.4,3.9,3.6,78.0,Salvador
+1287,Aluno_1287,16,2º Ano,6.4,7.5,2.6,62.5,Curitiba
+1288,Aluno_1288,19,2º Ano,4.3,4.5,6.4,79.0,Belo Horizonte
+1289,Aluno_1289,19,3º Ano,5.2,8.0,5.8,87.6,Salvador
+1290,Aluno_1290,18,1º Ano,6.4,7.1,8.1,84.3,Rio de Janeiro
+1291,Aluno_1291,14,1º Ano,6.3,6.9,7.3,81.5,São Paulo
+1292,Aluno_1292,18,1º Ano,5.8,9.0,6.7,78.8,São Paulo
+1293,Aluno_1293,18,2º Ano,3.2,4.6,5.7,71.8,Salvador
+1294,Aluno_1294,19,2º Ano,7.3,7.8,8.2,71.1,Belo Horizonte
+1295,Aluno_1295,16,1º Ano,7.7,6.1,9.6,80.0,Curitiba
+1296,Aluno_1296,15,2º Ano,9.3,10.0,8.0,66.4,Rio de Janeiro
+1297,Aluno_1297,14,1º Ano,6.9,5.9,5.4,73.6,Salvador
+1298,Aluno_1298,19,1º Ano,6.0,5.7,7.6,73.0,Rio de Janeiro
+1299,Aluno_1299,16,1º Ano,4.0,7.1,5.5,83.5,São Paulo
+1300,Aluno_1300,15,1º Ano,9.0,6.2,4.2,62.7,Curitiba
+1301,Aluno_1301,15,1º Ano,6.5,5.4,4.6,93.2,Rio de Janeiro
+1302,Aluno_1302,19,1º Ano,6.4,5.0,5.6,82.5,Salvador
+1303,Aluno_1303,17,1º Ano,5.5,8.7,6.4,86.8,Curitiba
+1304,Aluno_1304,14,2º Ano,5.4,4.8,9.9,88.1,Belo Horizonte
+1305,Aluno_1305,15,1º Ano,7.4,6.8,4.6,71.7,Salvador
+1306,Aluno_1306,19,1º Ano,4.0,8.1,8.6,78.8,Rio de Janeiro
+1307,Aluno_1307,19,2º Ano,9.3,8.2,5.6,98.2,Curitiba
+1308,Aluno_1308,16,2º Ano,8.8,5.6,2.6,90.7,Salvador
+1309,Aluno_1309,17,2º Ano,5.3,6.2,5.3,98.8,Curitiba
+1310,Aluno_1310,14,1º Ano,4.3,5.9,8.3,89.9,Curitiba
+1311,Aluno_1311,18,3º Ano,2.0,4.2,6.8,67.0,Curitiba
+1312,Aluno_1312,16,3º Ano,3.5,7.3,6.9,62.6,Rio de Janeiro
+1313,Aluno_1313,15,2º Ano,7.5,6.6,8.6,83.1,Salvador
+1314,Aluno_1314,15,3º Ano,6.6,8.7,4.3,74.3,São Paulo
+1315,Aluno_1315,16,2º Ano,7.0,5.3,4.3,71.0,São Paulo
+1316,Aluno_1316,19,1º Ano,2.3,8.1,2.1,92.3,Rio de Janeiro
+1317,Aluno_1317,15,3º Ano,5.2,8.2,7.8,74.7,Rio de Janeiro
+1318,Aluno_1318,17,1º Ano,8.7,6.6,7.2,72.7,Curitiba
+1319,Aluno_1319,14,3º Ano,5.8,3.2,7.5,94.0,Salvador
+1320,Aluno_1320,17,1º Ano,3.5,5.7,4.1,93.9,Salvador
+1321,Aluno_1321,15,3º Ano,5.8,9.2,3.3,74.3,Belo Horizonte
+1322,Aluno_1322,18,1º Ano,4.5,6.9,3.8,93.3,Belo Horizonte
+1323,Aluno_1323,14,1º Ano,6.7,7.5,4.5,94.0,São Paulo
+1324,Aluno_1324,14,3º Ano,6.0,6.4,9.0,77.0,Belo Horizonte
+1325,Aluno_1325,16,1º Ano,7.1,6.2,8.0,62.7,Belo Horizonte
+1326,Aluno_1326,16,1º Ano,3.6,3.7,5.4,60.1,São Paulo
+1327,Aluno_1327,18,1º Ano,5.1,7.7,6.7,80.9,São Paulo
+1328,Aluno_1328,19,3º Ano,8.2,8.1,5.0,73.8,Belo Horizonte
+1329,Aluno_1329,14,3º Ano,3.3,5.1,6.9,99.9,Salvador
+1330,Aluno_1330,18,1º Ano,4.0,6.2,4.2,90.9,Belo Horizonte
+1331,Aluno_1331,16,1º Ano,6.4,6.0,7.6,90.5,Curitiba
+1332,Aluno_1332,16,3º Ano,6.6,7.1,4.7,98.2,Curitiba
+1333,Aluno_1333,14,3º Ano,5.0,5.7,7.7,95.5,Curitiba
+1334,Aluno_1334,17,1º Ano,5.4,7.9,5.4,72.7,Rio de Janeiro
+1335,Aluno_1335,15,1º Ano,7.1,6.6,4.8,66.6,Curitiba
+1336,Aluno_1336,16,1º Ano,7.7,2.7,9.1,89.8,Salvador
+1337,Aluno_1337,19,2º Ano,3.9,7.2,6.5,75.1,Rio de Janeiro
+1338,Aluno_1338,19,3º Ano,6.7,8.0,5.6,78.9,Rio de Janeiro
+1339,Aluno_1339,16,2º Ano,9.0,4.8,7.6,85.2,Curitiba
+1340,Aluno_1340,17,3º Ano,5.8,7.1,3.8,96.3,Belo Horizonte
+1341,Aluno_1341,17,3º Ano,3.8,9.2,8.2,76.8,São Paulo
+1342,Aluno_1342,18,3º Ano,3.7,6.7,5.9,91.3,Belo Horizonte
+1343,Aluno_1343,19,3º Ano,5.7,8.2,7.3,70.7,Belo Horizonte
+1344,Aluno_1344,18,3º Ano,8.1,5.8,3.4,87.9,Rio de Janeiro
+1345,Aluno_1345,19,3º Ano,5.9,6.5,5.5,60.1,Rio de Janeiro
+1346,Aluno_1346,15,3º Ano,6.4,6.2,6.2,94.9,Rio de Janeiro
+1347,Aluno_1347,15,2º Ano,4.0,5.9,8.1,61.2,Salvador
+1348,Aluno_1348,14,1º Ano,8.0,6.3,7.4,88.5,Salvador
+1349,Aluno_1349,18,1º Ano,3.7,4.1,5.5,61.9,São Paulo
+1350,Aluno_1350,16,2º Ano,5.0,6.0,6.8,70.6,Rio de Janeiro
+1351,Aluno_1351,18,2º Ano,7.3,8.5,8.5,79.9,Curitiba
+1352,Aluno_1352,16,2º Ano,1.9,5.1,5.8,76.8,Rio de Janeiro
+1353,Aluno_1353,17,2º Ano,6.3,4.9,5.6,67.7,Salvador
+1354,Aluno_1354,18,3º Ano,3.9,6.6,2.8,73.4,Rio de Janeiro
+1355,Aluno_1355,17,1º Ano,6.0,6.7,5.7,89.1,Salvador
+1356,Aluno_1356,15,3º Ano,5.3,7.1,3.1,86.8,Rio de Janeiro
+1357,Aluno_1357,15,1º Ano,10.0,6.3,6.0,62.9,Curitiba
+1358,Aluno_1358,14,1º Ano,5.2,6.6,8.0,89.9,São Paulo
+1359,Aluno_1359,18,2º Ano,9.7,6.0,2.4,62.1,Curitiba
+1360,Aluno_1360,17,3º Ano,7.2,4.6,8.4,81.7,Salvador
+1361,Aluno_1361,16,2º Ano,4.4,6.4,5.6,70.4,Belo Horizonte
+1362,Aluno_1362,15,3º Ano,6.7,7.6,6.2,83.5,Curitiba
+1363,Aluno_1363,15,1º Ano,5.4,7.3,5.3,70.5,Rio de Janeiro
+1364,Aluno_1364,16,2º Ano,6.5,3.9,3.1,99.4,São Paulo
+1365,Aluno_1365,17,2º Ano,4.6,6.9,4.8,72.4,Rio de Janeiro
+1366,Aluno_1366,17,1º Ano,9.4,5.2,10.0,69.7,Rio de Janeiro
+1367,Aluno_1367,18,1º Ano,7.9,8.6,4.2,71.1,Curitiba
+1368,Aluno_1368,18,1º Ano,6.1,7.0,3.3,95.9,São Paulo
+1369,Aluno_1369,19,2º Ano,9.5,7.8,6.5,85.4,Belo Horizonte
+1370,Aluno_1370,19,3º Ano,6.1,6.5,6.0,89.2,Rio de Janeiro
+1371,Aluno_1371,14,2º Ano,8.2,6.4,5.6,96.7,São Paulo
+1372,Aluno_1372,15,3º Ano,6.1,8.7,6.2,96.5,Belo Horizonte
+1373,Aluno_1373,18,2º Ano,6.8,8.0,7.4,89.6,Rio de Janeiro
+1374,Aluno_1374,17,2º Ano,5.8,6.7,5.1,67.9,São Paulo
+1375,Aluno_1375,16,1º Ano,6.2,6.2,6.5,93.7,Curitiba
+1376,Aluno_1376,17,3º Ano,6.3,3.9,8.0,68.2,Rio de Janeiro
+1377,Aluno_1377,15,2º Ano,4.7,7.0,4.4,89.7,Rio de Janeiro
+1378,Aluno_1378,19,2º Ano,5.2,6.3,2.0,87.4,São Paulo
